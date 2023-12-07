@@ -1,8 +1,12 @@
 import React from 'react';
 import Cardshorizontal from '../inc/Cardshorizontal';
+import { useTranslation } from 'react-i18next'
 
 
 export default function Productos() {
+
+    const [t] = useTranslation();
+
     return (
         <div className='newpage'>
             <section className="section bg-c-light border-top">
@@ -10,14 +14,13 @@ export default function Productos() {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <h3 className="main-heading">
-                                Productos 
+                                {t("productos.title")}  
                             </h3>
                             <div className="underline mx-auto"></div>
                         </div>
                         <div className="col-md-12 text-center">
                         <h6 className="text-center">
-                            Tenemos varios paquetes estandar disponibles para utulización inmediata. 
-                            Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa.   
+                            {t("productos.subtitle")}   
                         </h6>
                         <div className='Bkground3'>
                             <Cardshorizontal />

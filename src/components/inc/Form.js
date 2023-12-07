@@ -8,10 +8,13 @@ import { useForm } from 'react-hook-form';
 import { yupResolver } from '@hookform/resolvers/yup';
 import * as Yup from 'yup';
 
+import { useTranslation } from 'react-i18next';
+
 
 export default function Form() {
 
     const navigate = useNavigate();
+    const [t] = useTranslation();
 
     /* --- SET INITIAL DATA FIELDS --- */
     const [toSend, setToSend] = useState({
@@ -25,10 +28,10 @@ export default function Form() {
 
     /* --- VALIDATE FORM FIELDS --- */
     const validationschema = Yup.object().shape({
-        from_name: Yup.string().required('Introduce el nombre.'),
-        from_phone: Yup.number().min(8).positive().integer().required('Introduce un numero de telefono valido.'),
-        from_email: Yup.string().email().required('Introduce un email valido.'),
-        from_message: Yup.string().required('Introduce un mensaje.'),
+        from_name: Yup.string().required('{t("form.valNombre")}'),
+        from_phone: Yup.number().min(8).positive().integer().required('{t("form.valPhone")}'),
+        from_email: Yup.string().email().required('{t("form.valEmail")}'),
+        from_message: Yup.string().required('{t("form.valMessage")}'),
     });
 
     const {register,formState: { errors }} = useForm({
@@ -71,13 +74,13 @@ export default function Form() {
                 data-form-title="CONTACT FORM"
             >
                 <div className="form-group">
-                    <label className="mb-1">Nombre</label>
+                    <label className="mb-1">{t("form.nombre")}</label>
                     <input 
                         type="text" 
                         className="form-control" 
                         name="from_name" 
                         required
-                        placeholder="Nombre*" 
+                        placeholder={t("form.placeNombre")}
                         data-form-field="Name" 
                         {...register("from_name")} 
                         value={toSend.from_name}
@@ -86,13 +89,13 @@ export default function Form() {
                     <p>{errors.from_name?.message}</p>
                 </div>
                 <div className="form-group">
-                    <label className="mb-1">Telefono</label>
+                    <label className="mb-1">{t("form.phone")}</label>
                     <input 
                         type="tel" 
                         className="form-control phone" 
                         name="from_phone" 
                         required                        
-                        placeholder="Telefono" 
+                        placeholder={t("form.placePhone")}
                         data-form-field="Phone" 
                         {...register("from_phone")}
                         value={toSend.from_phone}
@@ -101,13 +104,13 @@ export default function Form() {
                     <p>{errors.from_phone?.message}</p>
                 </div>
                 <div className="form-group">
-                    <label className="mb-1">Correo electronico</label>
+                    <label className="mb-1">{t("form.email")}</label>
                     <input 
                         type="email" 
                         className="form-control email" 
                         name="from_email" 
                         required
-                        placeholder="Email*" 
+                        placeholder={t("form.placeEmail")}
                         data-form-field="Email" 
                         {...register("from_email")}
                         value={toSend.from_email}
@@ -116,12 +119,12 @@ export default function Form() {
                     <p>{errors.from_email?.message}</p>
                 </div>
                 <div className="form-group">
-                    <label className="mb-1">Mensaje</label>
+                    <label className="mb-1">{t("form.message")}</label>
                     <textarea 
                         className="form-control message" 
                         name="from_message" 
                         required
-                        placeholder="Escribe aquí el mensaje ..." 
+                        placeholder={t("form.placeMessage")} 
                         rows="7" 
                         data-form-field="Message"
                         {...register("from_message")}
@@ -133,7 +136,7 @@ export default function Form() {
                 </div>
                 <div className="form-group py-3">
                     <button type="submit" className="btn btn-primary shadow w-100">
-                        Enviar Mensaje
+                        {t("form.btnSend")}
                     </button>
                 </div>
             </form>

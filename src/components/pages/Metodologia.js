@@ -1,7 +1,12 @@
 import React from 'react';
 import metodologia from '../../assets/images/Metodologia.PNG';
+import { useTranslation } from 'react-i18next'
+
 
 export default function Metodologia() {
+
+    const [t] = useTranslation();
+
     return (
         <div className='newpage'>
             <section className="section bg-c-light border-top">
@@ -9,31 +14,31 @@ export default function Metodologia() {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <h3 className="main-heading">
-                                Metodología 
+                                {t("metodologia.title")} 
                             </h3>
                             <div className="underline mx-auto"></div>
                         </div>
                         <div className="col-md-12 text-center">
                         <h6 className="text-center">
-                            Usamos metodología agile y control de proyectos por sprints de scrum para que su proyecto tenga éxito en el menor tiempo posible.   
+                        {t("metodologia.subtitle")}    
                         </h6>
                         <div className="row">
                             <div className="col-md-4 text-center">
                                 <h6>1</h6>
                                 <p>
-                                    Gestión de proyectos en modelo Agile y Scrum
+                                    {t("metodologia.1")}
                                 </p>
                             </div>
                             <div className="col-md-4 text-center">
                                 <h6>2</h6>
                                 <p>
-                                    QA y testing de software
+                                    {t("metodologia.2")}
                                 </p>
                             </div>
                             <div className="col-md-4 text-center">
                                 <h6>3</h6>
                                 <p>
-                                    Informes y métricas
+                                    {t("metodologia.3")}
                                 </p>
                             </div>
                         </div>

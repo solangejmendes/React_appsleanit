@@ -1,7 +1,11 @@
 import React from 'react';
 import Slider from '../inc/Slider'
+import { useTranslation } from 'react-i18next';
 
 export default function Quiensomos() {
+
+    const [t] = useTranslation();
+
     return (
         <div className='newpage'>        
             <section className="section border-top">
@@ -9,28 +13,26 @@ export default function Quiensomos() {
                     <div className="row">
                         <div className="col-md-12 text-center">
                             <h3 className="main-heading">
-                                Quien Somos
+                                {t("aboutus.title")} 
                             </h3>
                             <div className="underline mx-auto"></div>
                         </div>
                         <div className="col-md-12 left">
                             <p>
-                                Nos dedicamos, tanto a la integración de soluciones existentes (ver apartado de Productos), 
-                                como al desarrollo de soluciones de software personalizado para empresas industriales o de servicios. 
+                                {t("aboutus.paragraph1")} 
                             </p>
                             <p>
-                                Nuestras soluciones tecnológicas visan:
+                                {t("aboutus.paragraph2")}
                             </p>
                             <ul>
-                                <li>incrementar la productividad de los procesos de negocio, </li>
-                                <li>digitalizar procesos </li>
-                                <li>automatizar flujos de trabajo.</li>
+                                <li>{t("aboutus.paragraph3")}</li>
+                                <li>{t("aboutus.paragraph4")} </li>
+                                <li>{t("aboutus.paragraph5")}</li>
 
                             </ul>
                             <br/>
                             <p>
-                                Somos un equipo de Ingenieros con más de 15 años de experiencia laboral en diferentes áreas de tecnología y empresariales, como: 
-                                desarrollo de software, análisis de negocios con enfoques tecnológicos y gestión de proyectos. Dominamos la plataforma Power de Microsoft. 
+                                {t("aboutus.paragraph6")} 
                             </p>
                             <Slider />
                         </div>

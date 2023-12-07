@@ -1,0 +1,240 @@
+{
+    "header": {
+        "navHome": "Inicio",
+        "navAbout": "Quem somos",
+        "navServices": "Serviços",
+        "navMeth": "Metodologia",
+        "navProd": "Produtos",
+        "navContact": "Contato",
+        "phone": "Ligue 648 808 368"
+    },
+    "aboutus": {
+        "title": "Quem Somos",
+        "paragraph1": "Dedicamo-nos tanto à integração de soluções existentes (consulte a seção de Produtos) quanto ao desenvolvimento de soluções de software personalizado para empresas industriais ou de serviços.",
+        "paragraph2": "Nossas soluções tecnológicas visam:",
+        "paragraph3": "aumentar a produtividade dos processos de negócios,",
+        "paragraph4": "digitalizar processos,",
+        "paragraph5": "automatizar fluxos de trabalho.",
+        "paragraph6": "Somos uma equipe de Engenheiros com mais de 15 anos de experiência em diferentes áreas de tecnologia e negócios, como: desenvolvimento de software, análise de negócios com abordagens tecnológicas e gestão de projetos. Dominamos a plataforma Power da Microsoft."
+    },
+    "intro": {
+        "body1": "Bem-vind@ à nossa página web",
+        "body2": "Nossas soluções tecnológicas visam melhorar a produtividade da sua empresa"
+    },
+    "tipos": {
+        "title": "Plataforma Power",
+        "subtitle": "A Plataforma Power é uma tecnologia de alta qualidade da Microsoft que inclui ferramentas muito poderosas para o desenvolvimento de soluções de transformação digital."
+    },
+    "ventajas": {
+        "title": "Vantagens da Plataforma Power"
+    },
+    "servicios": {
+        "title": "Serviços",
+        "subtitle": "Nossos serviços baseiam-se fundamentalmente no desenvolvimento de software no ambiente da plataforma Power da Microsoft 365."
+    },
+    "productos": {
+        "title": "Produtos",
+        "subtitle": "Temos vários pacotes padrão disponíveis para utilização imediata. Os pacotes podem ser ajustados de acordo com as necessidades de cada empresa."
+    },
+    "metodologia": {
+        "title": "Metodologia",
+        "subtitle": "Usamos metodologia ágil e controle de projetos por sprints de scrum para que seu projeto tenha sucesso no menor tempo possível.",
+        "1": "Gestão de projetos no modelo Agile e Scrum",
+        "2": "QA e testing de software",
+        "3": "Relatórios e métricas"
+    },
+    "cards": {
+        "button": "mais detalhes",
+        "link": "mais informações",
+        "button2": "Ver vídeo da aplicação"
+    },
+    "whitecard1": {
+        "id": "1",
+        "title": "PowerApps",
+        "text": "Plataforma de programação para desenvolver aplicativos de desktop ou móveis integrados a outros softwares por meio de APIs ou a diferentes tipos de bancos de dados (SharePoint, Dataverse, SQL, Excel, entre outros) e que permite digitalizar e integrar os processos de negócios.",
+        "url": ""
+    },
+    "whitecard2": {
+        "id": "2",
+        "title": "Power Automate",
+        "text": "Plataforma de programação para desenvolver fluxos automáticos de trabalho ou aprovação, notificações, alertas, etc. integrados com outras aplicações do Microsoft Office 365, como Outlook, Teams, SharePoint, OneDrive, entre outras, permitindo um aumento substancial na produtividade dos processos de negócios.",
+        "url": ""
+    },
+    "whitecard3": {
+        "id": "3",
+        "title": "Power BI",
+        "text": "Plataforma de business intelligence que integra todas as informações contidas em uma variedade muito ampla e diversificada de bancos de dados da Azure, Microsoft, SQL, entre outros, para relacioná-las e transformá-las em um modelo analítico dos indicadores de processo do seu negócio.",
+        "url": ""
+    },
+    "card1": {
+        "id": "1",
+        "title": "Aplicações móveis",
+        "text": "Além de aplicativos de desktop, é possível desenvolver aplicativos móveis totalmente responsivos aos diferentes tamanhos de tela.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card2": {
+        "id": "1",
+        "title": "Funcionalidade IoT",
+        "text": "Utilização da câmera para leitura de códigos de barras e códigos QR, upload de fotos para uma gestão online de ocorrências ou operações.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card3": {
+        "id": "1",
+        "title": "Integração",
+        "text": "Aplicações totalmente integradas com ferramentas do Microsoft Office 365 (Teams para trabalho em equipe, planejamento de tarefas no Planner, notificações por e-mail, ...).",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card4": {
+        "id": "1",
+        "title": "Segurança",
+        "text": "Aplicação e dados protegidos em protocolos da Azure e personalização de acessos de acordo com as necessidades e por função do usuário.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card5": {
+        "id": "1",
+        "title": "Administração",
+        "text": "Total autonomia na administração de acessos e acesso ao 'core' (programa) da aplicação.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card6": {
+        "id": "1",
+        "title": "Versatilidade",
+        "text": "Permite criar uma grande variedade de aplicativos sob medida para as necessidades do negócio.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "servicecard1": {
+        "id": "1",
+        "title": "Digitalização de processos",
+        "text": "Permite eliminar o papel e trabalhar remotamente.",
+        "url": ""
+    },
+    "servicecard2": {
+        "id": "1",
+        "title": "Automatização de processos",
+        "text": "Não mais esquecimentos. O próprio processo notificará quando for o momento certo.",
+        "url": ""
+    },
+    "servicecard3": {
+        "id": "1",
+        "title": "Integração de ferramentas",
+        "text": "Integra várias aplicações dentro do Office 365.",
+        "url": ""
+    },
+    "servicecard4": {
+        "id": "1",
+        "title": "Análise de dados / Dashboards",
+        "text": "Navegue nas métricas cruciais para suas operações e tome as ações mais pertinentes.",
+        "url": ""
+    },
+    "servicecard5": {
+        "id": "1",
+        "title": "Manutenção Evolutiva",
+        "text": "Suporte técnico e evolutivo (melhorias, integrações e ampliações das aplicações implementadas).",
+        "url": ""
+    },
+    "servicecard6": {
+        "id": "1",
+        "title": "Consultoria IT",
+        "text": "Orientamos sobre a ferramenta ou processos que podem impactar mais com uma perspectiva de retorno do investimento.",
+        "url": ""
+    },
+    "horizontalcard1": {
+        "id": "1",
+        "title": "Lean Auditorias 5s",
+        "text": "Aplicação móvel para responder diretamente a perguntas relacionadas aos critérios de boas práticas do Lean 5s. Formulário livre ou acessível por meio de código de acesso. Cálculo do resultado final obtido. Várias notificações automáticas por e-mail às equipes responsáveis pelas áreas avaliadas. Consulta de formulários por diferentes filtros.",
+        "url": "https://www.youtube.com/watch?v=nMTd6FXW4n4"
+    },
+    "horizontalcard2": {
+        "id": "1",
+        "title": "Gestão de Projetos",
+        "text": "Aplicação para definir projetos desde sua ata de constituição, passando pelas atas de lançamento e controle com respectivas definições de entregáveis, até o encerramento do projeto com a definição de ações e benefícios relacionados. Registro de horas de carga de trabalho, assim como riscos do projeto.",
+        "url": "https://www.youtube.com/watch?v=nMTd6FXW4n4"
+    },
+    "horizontalcard3": {
+        "id": "1",
+        "title": "Produção",
+        "text": "Aplicação para planejamento e registro de produção. Visualização da produção em 3 linhas simultaneamente. Configuração das linhas de produção com base na padronização de produtos. Definição da configuração de paletização do produto.",
+        "url": "https://www.youtube.com/watch?v=Crb-WSlBfoA"
+    },
+    "horizontalcard4": {
+        "id": "1",
+        "title": "Pedidos de clientes",
+        "text": "Creação e edição de clientes. Creação e edição de produtos. Creação e edição de pedidos de clientes. Planificação de pedidos de clientes.",
+        "url": "https://www.youtube.com/watch?v=sZHcORgvtS8"
+    },
+    "horizontalcard5": {
+        "id": "1",
+        "title": "Carga massiva de produtos e sua lista de materiais",
+        "text": "Carga automática da lista de materiais e configuração completa de um produto. Arquivo CSV carregado no SharePoint que será utilizado por um aplicativo no PowerApps para produção e fornecimento dos materiais.",
+        "url": "https://www.youtube.com/watch?v=v2yNs-1C1bQ"
+    },
+    "horizontalcard6": {
+        "id": "1",
+        "title": "Recepção de mercadorias",
+        "text": "Aplicação móvel para registrar a recepção de mercadorias diretamente no local de operação, tanto por introdução manual do número de referência quanto por leitura do código de barras. Registro da configuração de cada mercadoria quando embalada, bem como da paletização. Balanço da recepção em relação aos pedidos de mercadorias introduzidos.",
+        "url": "https://www.youtube.com/watch?v=Ye_0IPtaPwM"
+    },
+    "horizontalcard7": {
+        "id": "1",
+        "title": "Armazenamento de mercadorias",
+        "text": "Aplicação móvel para registrar o armazenamento de mercadorias no local de operação. Possibilidade de introdução manual de referência (com validação no sistema da mercadoria cadastrada) ou por leitura de código de barras, com balanço do armazenamento pendente com base na mercadoria recebida e na já armazenada. Atribuição de espaço de armazenamento por leitura de código de barras do espaço para evitar erros na introdução de dados.",
+        "url": "https://www.youtube.com/watch?v=BIiCimkh8qA"
+    },
+    "horizontalcard8": {
+        "id": "1",
+        "title": "Surtido de mercadorias en Kanban",
+        "text": "Estabelecimento de objetivo de Kanban e, com base na produtividade histórica ou estimada da linha de produção, alocação das quantidades de materiais a serem consumidas em cada período de Kanban. Objetivos variáveis com base no desenvolvimento da produção. Envio por Outlook de um arquivo Excel com a estrutura de dados para copiar e colar no sistema mestre de gestão de estoque.",
+        "url": "https://www.youtube.com/watch?v=CKxLZB-Che4"
+    },
+    "horizontalcard9": {
+        "id": "1",
+        "title": "Logística Inversa",
+        "text": "Aplicação móvel para registrar toda a logística reversa proveniente da produção: Devoluções que seguirão uma reclamação ao fornecedor por mau estado; Quebras devido a danos na linha de produção; e Sobras da produção que serão devolvidas ao estoque de matéria-prima.",
+        "url": "https://www.youtube.com/watch?v=D_wuJguJRQs"
+    },
+    "contacto": {
+        "form": "Formulário de Contacto",
+        "address": "Direção",
+        "phone": "Telf.:",
+        "email": "email:"
+    },
+    "form": {
+        "nombre": "Nome",
+        "phone": "Telefone",
+        "email": "email",
+        "message": "Mensagem",
+        "valNombre": "Introduza o nome.",
+        "valPhone": "Introduza um número de telefone válido.",
+        "ValEmail": "Introduza um email válido.",
+        "ValMessage": "Introduza uma mensagem.",
+        "placeNombre": "Nome*",
+        "placePhone": "Telefone",
+        "placeEmail": "Email*",
+        "placeMessage": "Escreva aqui a mensagem ...",
+        "btnSend": "Enviar Mensagem"
+    },
+    "gracias": {
+        "body": "Obrigado por entrar em contato conosco. Analisaremos o sua solicitação e responderemos o mais breve possível.",
+        "button": "Voltar"
+    },
+    "footer": {
+        "follow": "Siganos nas redes sociais:",
+        "Actividades0": "Principais Atividades",
+        "Actividades1": "Metodologias Agile e Scrum",
+        "Actividades2": "Desenvolvimento de Software",
+        "Actividades3": "Serviço / Manutenção Web",
+        "Rutas0": "Rutas Rápidas",
+        "Rutas1": "Ínicio",
+        "Rutas2": "Serviços",
+        "Rutas3": "Produtos",
+        "Rutas4": "Portfolio",
+        "Rutas5": "Contato",
+        "Contacto0": "Informação  de Contato",
+        "Contacto1": "Avda del Ejercito, 32",
+        "Contacto2": "28500 Madrid",
+        "Contacto3": "Espanha",
+        "phone": "Telf.:",
+        "design1": "Desenhado por:",
+        "design2": "em 2023"
+    }
+}

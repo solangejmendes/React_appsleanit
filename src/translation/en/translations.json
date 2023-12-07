@@ -1,0 +1,244 @@
+{
+    "header": {
+        "navHome": "Home",
+        "navAbout": "About Us",
+        "navServices": "Services",
+        "navMeth": "Methodology",
+        "navProd": "Products",
+        "navContact": "Contact Us",
+        "message": "Language",
+        "phone": "call to 648 808 368"
+    },
+    "aboutus": {
+        "title": "About Us",
+        "paragraph1": "We are dedicated to both the integration of existing solutions (see Products section) and the development of customized software solutions for industrial or service companies.",
+        "paragraph2": "Our technological solutions aim to:",
+        "paragraph3": "increase the productivity of business processes,",
+        "paragraph4": "digitize processes,",
+        "paragraph5": "automate workflows.",
+        "paragraph6": "We are a team of Engineers with more than 15 years of work experience in different technology and business areas, such as: software development, business analysis with technological approaches and project management. We master Microsoft's Power platform."
+    },
+    "intro": {
+        "body1": "Welcome to our homepage",
+        "body2": "Our tecnological solutions, raises your organization productitity"
+    },
+    "tipos": {
+        "title": "Power Plataform",
+        "subtitle": "Power Platform is a high-quality Microsoft technology that includes very powerful tools for the development of digital transformation solutions."
+    },
+    "ventajas": {
+        "title": "Advantages of the Power Platform"
+    },
+    "servicios": {
+        "title": "Services",
+        "subtitle": "Our services are fundamentally based on software development in the Microsoft 365 Power platform environment."
+    },
+    "productos": {
+        "title": "Products",
+        "subtitle": "We have several standard packages available for immediate use. Packages can be adjusted according to the needs of each company."
+    },
+    "metodologia": {
+        "title": "Metodology",
+        "subtitle": "We use agile methodology and project control through scrum sprints so that your project is successful in the shortest time possible.",
+        "1": "Project management in Agile and Scrum model",
+        "2": "QA and software testing",
+        "3": "Reports and metrics"
+    },
+    "cards": {
+        "button": "more detail",
+        "link": "more information",
+        "button2": "See app video"
+    },
+    "whitecard1": {
+        "id": "1",
+        "title": "PowerApps",
+        "text": "Programming platform to develop desktop or mobile applications integrated with other software through APIs or different types of databases (SharePoint, Dataverse, SQL, Excel, among others) and that allows digitalizing and integrating business processes.",
+        "imageSource": "../../assets/images/PowerApps.jpg",
+        "url": ""
+    },
+    "whitecard2": {
+        "id": "2",
+        "title": "Power Automate",
+        "text": "Programming platform to develop automatic work or approval flows, notifications, alerts, etc. Integrated with other Microsoft Office 365 applications such as Outlook, Teams, SharePoint, OneDrive, among others, allowing a substantial increase in the productivity of business processes.",
+        "imageSource": "../../assets/images/PowerAutomate3.PNG",
+        "url": ""
+    },
+    "whitecard3": {
+        "id": "3",
+        "title": "Power BI",
+        "text": "Business intelligence platform that integrates all the information contained in a very wide and diversified variety of Azure, Microsoft, SQL, among other databases, relates them and transforms them into an analytical model of your business process indicators.",
+        "imageSource": "../../assets/images/powerBI.png",
+        "url": ""
+    },
+    "card1": {
+        "id": "1",
+        "title": "PowerApps",
+        "text": "In addition to desktop applications, you can develop mobile applications that are fully responsive to different screen sizes.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card2": {
+        "id": "1",
+        "title": "IoT Features",
+        "text": "Use of the camera to read barcodes and QR codes, upload photos for online management of incidents or operations.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card3": {
+        "id": "1",
+        "title": "Integration",
+        "text": "Applications fully integrated with Microsoft Office 365 tools (Teams for teamwork, task planning in planner, email notifications,...).",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card4": {
+        "id": "1",
+        "title": "Security",
+        "text": "Application and data protected in Azure protocols and customization of access to suit needs and by user role.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card5": {
+        "id": "1",
+        "title": "Administration",
+        "text": "Total autonomy in managing access and accessing the “core” (program) of the application.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "card6": {
+        "id": "1",
+        "title": "Versatility",
+        "text": "It allows you to create a wide variety of applications tailored to your business needs.",
+        "url": "https://youtube.com/appsleanIT"
+    },
+    "servicecard1": {
+        "id": "1",
+        "title": "Processes digitalization",
+        "text": "It allows you to remove paper and work remotely.",
+        "url": ""
+    },
+    "servicecard2": {
+        "id": "1",
+        "title": "Process automatization",
+        "text": "No more forgetfulness. The process itself will notify you when the right time is.",
+        "url": ""
+    },
+    "servicecard3": {
+        "id": "1",
+        "title": "Tools integration",
+        "text": "Integrates several applications within Office 365.",
+        "url": ""
+    },
+    "servicecard4": {
+        "id": "1",
+        "title": "Data analitics / Dashboards",
+        "text": "Navigate the metrics crucial to your operations to take the most relevant actions.",
+        "url": ""
+    },
+    "servicecard5": {
+        "id": "1",
+        "title": "Evolutive maintenance",
+        "text": "Technical and evolutionary support (improvements, integrations and extensions of the implemented applications).",
+        "url": ""
+    },
+    "servicecard6": {
+        "id": "1",
+        "title": "IT consulting",
+        "text": "We guide you in the tool or processes that can have the most impact with a return on investment perspective.",
+        "url": ""
+    },
+    "horizontalcard1": {
+        "id": "1",
+        "title": "Lean 5s Audits",
+        "text": "Mobile application to answer questions related to the Lean 5s good practice criteria at the operation level. Free form or accessible via access code. Calculation of the final result obtained. Several automatic email notifications to the teams responsible for the areas evaluated. Consultation of forms by different filters.",
+        "url": "https://www.youtube.com/watch?v=nMTd6FXW4n4"
+    },
+    "horizontalcard2": {
+        "id": "1",
+        "title": "Project Management",
+        "text": "Application to define projects from their charter, through the launch and control minutes with respective definitions of deliverables, until the project closure with the definition of actions and related benefits. Allocation of workload hours, as well as project risks.",
+        "url": "https://www.youtube.com/watch?v=nMTd6FXW4n4"
+    },
+    "horizontalcard3": {
+        "id": "1",
+        "title": "Production",
+        "text": "Application for production planning and registration. Visualization of production and 3 lines simultaneously. Configuration of production lines based on product standardization. Definition of the product palletizing configuration.",
+        "url": "https://www.youtube.com/watch?v=Crb-WSlBfoA"
+    },
+    "horizontalcard4": {
+        "id": "1",
+        "title": "Customer orders",
+        "text": "Registration and editing of clients. Registration and editing of products. Registration and editing of customer orders. Customer order planning.",
+        "url": "https://www.youtube.com/watch?v=sZHcORgvtS8"
+    },
+    "horizontalcard5": {
+        "id": "1",
+        "title": "Bulk upload of products and their bill of materials",
+        "text": "Automatic upload of the bill of materials and complete configuration of a product. CSV file uploaded to SharePoint that will be used by a PowerApps application for production and supply of materials.",
+        "url": "https://www.youtube.com/watch?v=v2yNs-1C1bQ"
+    },
+    "horizontalcard6": {
+        "id": "1",
+        "title": "Goods reception",
+        "text": "Mobile application to record the receipt of merchandise at the operation level both by manual entry of the reference number and by reading the barcode. Record of the configuration of each merchandise when it is placed in the pack in which it is contained as palletized. Balance of receipt in relation to merchandise orders entered.",
+        "url": "https://www.youtube.com/watch?v=Ye_0IPtaPwM"
+    },
+    "horizontalcard7": {
+        "id": "1",
+        "title": "Goods storage",
+        "text": "Mobile application to record the storage of merchandise at the operation. Possibility of manual entry of reference (with validation in the system of the registered merchandise) such as by barcode reading and balance of pending storage depending on the merchandise received and those already stored. Assignment of storage slot by reading the slot barcode to avoid data entry errors.",
+        "url": "https://www.youtube.com/watch?v=BIiCimkh8qA"
+    },
+    "horizontalcard8": {
+        "id": "1",
+        "title": "Goods picking in kanban",
+        "text": "Establishment of Kanban objective and, based on the historical or estimated productivity of the production line, assignment of the quantities of materials to be consumed in each kanban period. Variable objectives depending on how production develops. Sending via Outlook an Excel file with the data structure to copy and paste into the master stock management system.",
+        "url": "https://www.youtube.com/watch?v=CKxLZB-Che4"
+    },
+    "horizontalcard9": {
+        "id": "1",
+        "title": "Reverse logistics",
+        "text": "Mobile application to record all reverse logistics from production: Returns that will follow a claim to the supplier for poor condition; Breakage due to damage on the production line; and Surpluses from production that will be returned to the stock of raw materials.",
+        "url": "https://www.youtube.com/watch?v=D_wuJguJRQs"
+    },
+    "contacto": {
+        "form": "Contact Form",
+        "address": "Address Information",
+        "phone": "Phone:",
+        "email": "email: "
+    },
+    "form": {
+        "nombre": "Name",
+        "phone": "Phone",
+        "email": "Email",
+        "message": "Message",
+        "valNombre": "Introduce your nomnamebre.",
+        "valPhone": "Introduce a valid phone number.",
+        "ValEmail": "Introduce a valide email.",
+        "ValMessage": "Introduce a message.",
+        "placeNombre": "Name*",
+        "placePhone": "Phone",
+        "placeEmail": "Email*",
+        "placeMessage": "Write here your message ...",
+        "btnSend": "Send Message"
+    },
+    "gracias": {
+        "body": "Thank you for contacting with us. We will analyze your request and respond to you as soon as possible.",
+        "button": "Return"
+    },
+    "footer": {
+        "follow": "Follow us on social networks:",
+        "Actividades0": "Main activities",
+        "Actividades1": "Agile and Scrum methodologies",
+        "Actividades2": "Software development",
+        "Actividades3": "Service / Web Maintenance",
+        "Rutas0": "Quick Routes",
+        "Rutas1": "Home",
+        "Rutas2": "Services",
+        "Rutas3": "Products",
+        "Rutas4": "Portfolio",
+        "Rutas5": "Contact",
+        "Contacto0": "Contact Information",
+        "Contacto1": "Avda del Ejercito, 32",
+        "Contacto2": "28500 Madrid",
+        "Contacto3": "Spain",
+        "phone": "Phone:",
+        "design1": "Designed by:",
+        "design2": "in 2023" 
+    }
+}

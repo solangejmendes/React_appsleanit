@@ -1,7 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
 
 export default function Gracias() {
+
+    const {t} = useTranslation();
+
     return (
         <div>
             <section className="section">
@@ -10,10 +14,10 @@ export default function Gracias() {
                         <div className="col-md-12 text-center">
                             <h3 className="main-heading">Gracias</h3>
                             <div className="underline mx-auto"></div>
-                            <p>Gracias por ponerse en contacto con nosotros. Analizaremos su solucitud y le contestaremos con la mayor brevidad posible.</p>
+                            <p>{t("gracias.body")}</p>
                             <Link to="/">
                                     <button className="btn btn-primary shadow">
-                                        Volver
+                                        {t("gracias.button")}
                                     </button>
                             </Link>
                         </div>

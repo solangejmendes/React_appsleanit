@@ -3,8 +3,12 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import Form from '../inc/Form';
 
+import { useTranslation } from 'react-i18next';
 
 export default function Contacto() {
+    
+    const [t] = useTranslation();
+
     return (
         <div className='newpage'>
             <section className="section">
@@ -13,14 +17,14 @@ export default function Contacto() {
                         <div className="card-body">
                             <div className="row">
                                 <div className="col-md-6 border-left">
-                                    <h5>Formulario de Contacto</h5>
+                                    <h5>{t("contacto.form")}</h5>
                                     <div className="underline"></div>
                                     <hr />
                                     <div data-form-alert="true"></div>
                                     <Form />
                                 </div>
                                 <div className="col-md-6 border-start">
-                                    <h5>Address Information</h5>
+                                    <h5>{t("contacto.address")}</h5>
                                     <div className="underline"></div>
                                     <div>
                                         <iframe 
@@ -38,12 +42,12 @@ export default function Contacto() {
                                     <hr />
                                     <div>
                                         <p className="text-center">
-                                            Telf: 
+                                            {t("contacto.phone")} 
                                             <a href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Apps%20Lean%20IT.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" target="_blank" rel="noopener noreferrer"> +34 648 808 368</a>
                                             <a href="https://api.whatsapp.com/send?phone=34648808368&text=Gracias%20por%20contactar%20a%20Apps%20Lean%20IT.%20%C2%BFEn%20que%20te%20puedo%20ayudar?" className="whatsapp social" target="_blank" rel="noopener noreferrer">
                                                 <FontAwesomeIcon icon={faWhatsapp} size="1x" />
                                             </a>
-                                            | email: 
+                                            |   {t("contacto.email")} 
                                             <a href="#bottom"> info@AppsLeanIT.com</a>
                                         </p>
                                     </div>
