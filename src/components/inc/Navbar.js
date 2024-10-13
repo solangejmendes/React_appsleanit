@@ -41,6 +41,14 @@ export default function Navbar() {
                                 {t("header.navAbout")} 
                             </NavLink>
                         </li>           
+                        <li className="nav-item">
+                            <NavLink 
+                                to="/contacto" 
+                                className="nav-link navbar-text"
+                            >
+                                {t("header.navContact")}
+                            </NavLink>
+                        </li>
                         <li className="nav-item" >
                             <NavLink 
                                 to="/servicios" 
@@ -65,14 +73,6 @@ export default function Navbar() {
                                 {t("header.navProd")}
                             </NavLink>
                         </li>  
-                        <li className="nav-item">
-                            <NavLink 
-                                to="/contacto" 
-                                className="nav-link navbar-text"
-                            >
-                                {t("header.navContact")}
-                            </NavLink>
-                        </li>
                     </ul>
                 </div>
 
