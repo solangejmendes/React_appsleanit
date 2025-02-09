@@ -1,6 +1,6 @@
 {
     "header": {
-        "navHome": "Inicio",
+        "navHome": "Início",
         "navAbout": "Quem somos",
         "navServices": "Serviços",
         "navMeth": "Metodologia",
@@ -159,7 +159,7 @@
     "horizontalcard4": {
         "id": "1",
         "title": "Pedidos de clientes",
-        "text": "Creação e edição de clientes. Creação e edição de produtos. Creação e edição de pedidos de clientes. Planificação de pedidos de clientes.",
+        "text": "Criação e edição de clientes. Criação e edição de produtos. Criação e edição de pedidos de clientes. Planificação de pedidos de clientes.",
         "url": "https://www.youtube.com/watch?v=sZHcORgvtS8"
     },
     "horizontalcard5": {
@@ -194,7 +194,7 @@
     },
     "contacto": {
         "form": "Formulário de Contacto",
-        "address": "Direção",
+        "address": "Morada:",
         "phone": "Telf.:",
         "email": "email:"
     },
@@ -218,12 +218,12 @@
         "button": "Voltar"
     },
     "footer": {
-        "follow": "Siganos nas redes sociais:",
+        "follow": "Siga-nos nas redes sociais:",
         "Actividades0": "Principais Atividades",
         "Actividades1": "Metodologias Agile e Scrum",
         "Actividades2": "Desenvolvimento de Software",
         "Actividades3": "Serviço / Manutenção Web",
-        "Rutas0": "Rutas Rápidas",
+        "Rutas0": "Rotas Rápidas",
         "Rutas1": "Ínicio",
         "Rutas2": "Serviços",
         "Rutas3": "Produtos",
@@ -235,6 +235,6 @@
         "Contacto3": "Espanha",
         "phone": "Telf.:",
         "design1": "Desenhado por:",
-        "design2": "em 2023"
+        "design2": "em 2025"
     }
 }

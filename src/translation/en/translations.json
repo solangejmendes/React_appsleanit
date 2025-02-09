@@ -7,16 +7,16 @@
         "navProd": "Products",
         "navContact": "Contact Us",
         "message": "Language",
-        "phone": "call to 648 808 368"
+        "phone": "call 648 808 368"
     },
     "aboutus": {
         "title": "About Us",
         "paragraph1": "We are dedicated to both the integration of existing solutions (see Products section) and the development of customized software solutions for industrial or service companies.",
         "paragraph2": "Our technological solutions aim to:",
-        "paragraph3": "increase the productivity of business processes,",
-        "paragraph4": "digitize processes,",
+        "paragraph3": "Increase business process productivity",
+        "paragraph4": "digitize business processes,",
         "paragraph5": "automate workflows.",
-        "paragraph6": "We are a team of Engineers with more than 15 years of work experience in different technology and business areas, such as: software development, business analysis with technological approaches and project management. We master Microsoft's Power platform."
+        "paragraph6": "We are a team of engineers with more than 15 years of work experience in different technology and business areas, such as: software development, business analysis with technological approaches and project management. We specialize in Microsoft's Power Platform."
     },
     "intro": {
         "body1": "Welcome to our homepage",
@@ -38,9 +38,9 @@
         "subtitle": "We have several standard packages available for immediate use. Packages can be adjusted according to the needs of each company."
     },
     "metodologia": {
-        "title": "Metodology",
+        "title": "Methodology",
         "subtitle": "We use agile methodology and project control through scrum sprints so that your project is successful in the shortest time possible.",
-        "1": "Project management in Agile and Scrum model",
+        "1": "Project management using Agile and Scrum model",
         "2": "QA and software testing",
         "3": "Reports and metrics"
     },
@@ -108,25 +108,25 @@
     },
     "servicecard1": {
         "id": "1",
-        "title": "Processes digitalization",
+        "title": "Process digitalization",
         "text": "It allows you to remove paper and work remotely.",
         "url": ""
     },
     "servicecard2": {
         "id": "1",
-        "title": "Process automatization",
+        "title": "Process automation",
         "text": "No more forgetfulness. The process itself will notify you when the right time is.",
         "url": ""
     },
     "servicecard3": {
         "id": "1",
-        "title": "Tools integration",
+        "title": "Tool integration",
         "text": "Integrates several applications within Office 365.",
         "url": ""
     },
     "servicecard4": {
         "id": "1",
-        "title": "Data analitics / Dashboards",
+        "title": "Data analytics / Dashboards",
         "text": "Navigate the metrics crucial to your operations to take the most relevant actions.",
         "url": ""
     },
@@ -207,18 +207,18 @@
         "phone": "Phone",
         "email": "Email",
         "message": "Message",
-        "valNombre": "Introduce your nomnamebre.",
+        "valNombre": "Introduce your name.",
         "valPhone": "Introduce a valid phone number.",
-        "ValEmail": "Introduce a valide email.",
-        "ValMessage": "Introduce a message.",
+        "ValEmail": "Enter a valid email.",
+        "ValMessage": "Enter a message.",
         "placeNombre": "Name*",
         "placePhone": "Phone",
         "placeEmail": "Email*",
-        "placeMessage": "Write here your message ...",
+        "placeMessage": "Write your message here...",
         "btnSend": "Send Message"
     },
     "gracias": {
-        "body": "Thank you for contacting with us. We will analyze your request and respond to you as soon as possible.",
+        "body": "Thank you for contacting us. We will analyze your request and respond to you as soon as possible.",
         "button": "Return"
     },
     "footer": {
@@ -227,7 +227,7 @@
         "Actividades1": "Agile and Scrum methodologies",
         "Actividades2": "Software development",
         "Actividades3": "Service / Web Maintenance",
-        "Rutas0": "Quick Routes",
+        "Rutas0": "Quick Links",
         "Rutas1": "Home",
         "Rutas2": "Services",
         "Rutas3": "Products",
@@ -239,6 +239,6 @@
         "Contacto3": "Spain",
         "phone": "Phone:",
         "design1": "Designed by:",
-        "design2": "in 2023" 
+        "design2": "in 2025" 
     }
 }

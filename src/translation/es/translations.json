@@ -9,9 +9,9 @@
         "phone": "Llámanos 648 808 368"
     },
     "aboutus": {
-        "title": "Quien Somos",
+        "title": "Quiénes Somos",
         "paragraph1": "Nos dedicamos, tanto a la integración de soluciones existentes (ver apartado de Productos), como al desarrollo de soluciones de software personalizado para empresas industriales o de servicios.",
-        "paragraph2": "Nuestras soluciones tecnológicas visan:",
+        "paragraph2": "Nuestras soluciones tecnológicas tienen como objetivo:",
         "paragraph3": "incrementar la productividad de los procesos de negocio,",
         "paragraph4": "digitalizar procesos,",
         "paragraph5": "automatizar flujos de trabajo.",
@@ -19,7 +19,7 @@
     },
     "intro": {
         "body1": "Bienvenid@ a nuestra página web",
-        "body2": "Nuestras soluciones tecnológicas, visan la mejora de productividad de tu empresa"
+        "body2": "Nuestras soluciones tecnológicas, tienen como objetivo la mejora de productividad de tu empresa"
     },
     "tipos": {
         "title": "Plataforma Power",
@@ -30,16 +30,16 @@
     },
     "servicios": {
         "title": "Servicios",
-        "subtitle": "Nuestros servicios de basan fundamentalmente en el desarrollo de software en el entorno de la plataforma Power de Microsoft 365."
+        "subtitle": "Nuestros servicios se basan fundamentalmente en el desarrollo de software en el entorno de la plataforma Power de Microsoft 365."
     },
     "productos": {
         "title": "Productos",
-        "subtitle": "Tenemos varios paquetes estandar disponibles para utulización inmediata. Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa."
+        "subtitle": "TTenemos varios paquetes estándar disponibles para utilización inmediata. Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa."
     },
     "metodologia": {
         "title": "Metodología",
         "subtitle": "Usamos metodología agile y control de proyectos por sprints de scrum para que su proyecto tenga éxito en el menor tiempo posible.",
-        "1": "Gestión de proyectos en modelo Agile y Scrum·",
+        "1": "Gestión de proyectos con el modelo Agile y Scrum·",
         "2": "QA y testing de software",
         "3": "Informes y métricas"
     },
@@ -132,7 +132,7 @@
     "servicecard5": {
         "id": "1",
         "title": "Mantenimiento Evolutivo",
-        "text": "Suporte técnico y evolutivos (mejoras, integraciones y ampliaciones de las aplicaciones implementadas).",
+        "text": "Soporte técnico y evolutivos (mejoras, integraciones y ampliaciones de las aplicaciones implementadas).",
         "url": ""
     },
     "servicecard6": {
@@ -167,7 +167,7 @@
     },
     "horizontalcard5": {
         "id": "1",
-        "title": "Carga masiva de productos y su lista de materiales",
+        "title": "Carga masiva de productos y sus lista de materiales",
         "text": "Carga automática de la lista de materiales y configuración completa de un producto. Archivo csv cargado en SharePoint que será utilizado por una aplicación en PowerApps para producción y suministro de los materiales.",
         "url": "https://www.youtube.com/watch?v=v2yNs-1C1bQ"
     },
@@ -234,6 +234,6 @@
         "Contacto3": "España",
         "phone": "Telf.:",
         "design1": "Diseñado por:",
-        "design2": "en 2023"
+        "design2": "en 2025"
     }
 }
