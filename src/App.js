@@ -13,17 +13,19 @@ import Metodologia from './components/pages/Metodologia';
 function App() {
   return (
     <Router>
-        <div>
+        <div className="d-flex flex-column min-vh-100">
             <Navbar />
-            <Routes>
-                <Route path="servicios" element={<Servicios />} />
-                <Route path="productos" element={<Productos />} />
-                <Route path="quiensomos" element={<Quiensomos />} />
-                <Route path="metodologia" element={<Metodologia />} />
-                <Route path="contacto" element={<Contacto />} />
-                <Route path="gracias" element={<Gracias />} />
-                <Route path="/" element={<Inicio />} />
-            </Routes>
+            <div className="flex-grow-1"> 
+              <Routes>
+                  <Route path="servicios" element={<Servicios />} />
+                  <Route path="productos" element={<Productos />} />
+                  <Route path="quiensomos" element={<Quiensomos />} />
+                  <Route path="metodologia" element={<Metodologia />} />
+                  <Route path="contacto" element={<Contacto />} />
+                  <Route path="gracias" element={<Gracias />} />
+                  <Route path="/" element={<Inicio />} />
+              </Routes>
+            </div>
             <Footer />
         </div>
     </Router>

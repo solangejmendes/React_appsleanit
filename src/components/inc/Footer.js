@@ -35,9 +35,9 @@ export default function Footer() {
                             <h6>{t("footer.Rutas0")}</h6>
                             <hr/>
                             <div><Link to="/">{t("footer.Rutas1")}</Link></div>
-                            <div><Link to="/audit">{t("footer.Rutas2")}</Link></div>
-                            <div><Link to="/calidad">{t("footer.Rutas3")}</Link></div>
-                            <div><Link to="/elegir">{t("footer.Rutas4")}</Link></div>
+                            <div><Link to="/quiensomos">{t("footer.Rutas4")}</Link></div>
+                            <div><Link to="/servicios">{t("footer.Rutas2")}</Link></div>
+                            <div><Link to="/productos">{t("footer.Rutas3")}</Link></div>
                             <div><Link to="/contacto">{t("footer.Rutas5")}</Link></div>
                         </div>
 

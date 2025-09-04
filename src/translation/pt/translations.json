@@ -10,7 +10,7 @@
     },
     "aboutus": {
         "title": "Quem Somos",
-        "paragraph1": "Dedicamo-nos tanto à integração de soluções existentes (consulte a seção de Produtos) quanto ao desenvolvimento de soluções de software personalizado para empresas industriais ou de serviços.",
+        "paragraph1": "Dedicamo-nos tanto à integração de soluções existentes (consulte a seção Produtos) quanto ao desenvolvimento de software personalizado para empresas dos setores industrial e de serviços.",
         "paragraph2": "Nossas soluções tecnológicas visam:",
         "paragraph3": "aumentar a produtividade dos processos de negócios,",
         "paragraph4": "digitalizar processos,",
@@ -70,37 +70,37 @@
         "id": "1",
         "title": "Aplicações móveis",
         "text": "Além de aplicativos de desktop, é possível desenvolver aplicativos móveis totalmente responsivos aos diferentes tamanhos de tela.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card2": {
         "id": "1",
         "title": "Funcionalidade IoT",
         "text": "Utilização da câmera para leitura de códigos de barras e códigos QR, upload de fotos para uma gestão online de ocorrências ou operações.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card3": {
         "id": "1",
         "title": "Integração",
         "text": "Aplicações totalmente integradas com ferramentas do Microsoft Office 365 (Teams para trabalho em equipe, planejamento de tarefas no Planner, notificações por e-mail, ...).",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card4": {
         "id": "1",
         "title": "Segurança",
-        "text": "Aplicação e dados protegidos em protocolos da Azure e personalização de acessos de acordo com as necessidades e por função do usuário.",
-        "url": "https://youtube.com/appsleanIT"
+        "text": "Aplicações e dados protegidos por protocolos da Azure, com personalização de acessos conforme a função e necessidade de cada usuário.",
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card5": {
         "id": "1",
         "title": "Administração",
         "text": "Total autonomia na administração de acessos e acesso ao 'core' (programa) da aplicação.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card6": {
         "id": "1",
         "title": "Versatilidade",
         "text": "Permite criar uma grande variedade de aplicativos sob medida para as necessidades do negócio.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "servicecard1": {
         "id": "1",
@@ -227,7 +227,7 @@
         "Rutas1": "Ínicio",
         "Rutas2": "Serviços",
         "Rutas3": "Produtos",
-        "Rutas4": "Portfolio",
+        "Rutas4": "Quem Somos",
         "Rutas5": "Contato",
         "Contacto0": "Informação  de Contato",
         "Contacto1": "Avda del Ejercito, 32",

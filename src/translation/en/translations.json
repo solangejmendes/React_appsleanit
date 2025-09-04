@@ -7,15 +7,15 @@
         "navProd": "Products",
         "navContact": "Contact Us",
         "message": "Language",
-        "phone": "call 648 808 368"
+        "phone": "Call 648 808 368"
     },
     "aboutus": {
         "title": "About Us",
-        "paragraph1": "We are dedicated to both the integration of existing solutions (see Products section) and the development of customized software solutions for industrial or service companies.",
+        "paragraph1": "We are specialize in integrating existing solutions (see Products section) and the development of customized software solutions for industrial or service companies.",
         "paragraph2": "Our technological solutions aim to:",
         "paragraph3": "Increase business process productivity",
-        "paragraph4": "digitize business processes,",
-        "paragraph5": "automate workflows.",
+        "paragraph4": "digitize workflows,",
+        "paragraph5": "automate operations.",
         "paragraph6": "We are a team of engineers with more than 15 years of work experience in different technology and business areas, such as: software development, business analysis with technological approaches and project management. We specialize in Microsoft's Power Platform."
     },
     "intro": {
@@ -23,8 +23,8 @@
         "body2": "Our technologies increase your productitity"
     },
     "tipos": {
-        "title": "Power Plataform",
-        "subtitle": "Power Platform is a high-quality Microsoft technology that includes very powerful tools for the development of digital transformation solutions."
+        "title": "Power Platform",
+        "subtitle": "Power Platform is a top-tier Microsoft technology that includes powerful tools for the development of digital transformation solutions."
     },
     "ventajas": {
         "title": "Advantages of the Power Platform"
@@ -39,7 +39,7 @@
     },
     "metodologia": {
         "title": "Methodology",
-        "subtitle": "We use agile methodology and project control through scrum sprints so that your project is successful in the shortest time possible.",
+        "subtitle": "We use agile methodology and project control through scrum sprints to ensure your project succeeds as quickly as possible.",
         "1": "Project management using Agile and Scrum model",
         "2": "QA and software testing",
         "3": "Reports and metrics"
@@ -52,14 +52,14 @@
     "whitecard1": {
         "id": "1",
         "title": "PowerApps",
-        "text": "Programming platform to develop desktop or mobile applications integrated with other software through APIs or different types of databases (SharePoint, Dataverse, SQL, Excel, among others) and that allows digitalizing and integrating business processes.",
+        "text": "A development platform for creating desktop or mobile applications integrated with other software through APIs or different types of databases (SharePoint, Dataverse, SQL, Excel, among others) and that allows digitalizing and integrating business processes.",
         "imageSource": "../../assets/images/PowerApps.jpg",
         "url": ""
     },
     "whitecard2": {
         "id": "2",
         "title": "Power Automate",
-        "text": "Programming platform to develop automatic work or approval flows, notifications, alerts, etc. Integrated with other Microsoft Office 365 applications such as Outlook, Teams, SharePoint, OneDrive, among others, allowing a substantial increase in the productivity of business processes.",
+        "text": "A development platform for creating automatic work or approval flows, notifications, alerts, etc. Integrated with other Microsoft Office 365 applications such as Outlook, Teams, SharePoint, OneDrive, among others, allowing a significantly boosting process productivity.",
         "imageSource": "../../assets/images/PowerAutomate3.PNG",
         "url": ""
     },
@@ -74,48 +74,48 @@
         "id": "1",
         "title": "PowerApps",
         "text": "In addition to desktop applications, you can develop mobile applications that are fully responsive to different screen sizes.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card2": {
         "id": "1",
         "title": "IoT Features",
         "text": "Use of the camera to read barcodes and QR codes, upload photos for online management of incidents or operations.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card3": {
         "id": "1",
         "title": "Integration",
         "text": "Applications fully integrated with Microsoft Office 365 tools (Teams for teamwork, task planning in planner, email notifications,...).",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card4": {
         "id": "1",
         "title": "Security",
         "text": "Application and data protected in Azure protocols and customization of access to suit needs and by user role.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card5": {
         "id": "1",
         "title": "Administration",
         "text": "Total autonomy in managing access and accessing the “core” (program) of the application.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card6": {
         "id": "1",
         "title": "Versatility",
         "text": "It allows you to create a wide variety of applications tailored to your business needs.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "servicecard1": {
         "id": "1",
         "title": "Process digitalization",
-        "text": "It allows you to remove paper and work remotely.",
+        "text": "Eliminate paperwork and work remotely.",
         "url": ""
     },
     "servicecard2": {
         "id": "1",
         "title": "Process automation",
-        "text": "No more forgetfulness. The process itself will notify you when the right time is.",
+        "text": "No more forgetfulness. The process will notify you when it's time to act.",
         "url": ""
     },
     "servicecard3": {
@@ -139,7 +139,7 @@
     "servicecard6": {
         "id": "1",
         "title": "IT consulting",
-        "text": "We guide you in the tool or processes that can have the most impact with a return on investment perspective.",
+        "text": "We advise you in the tool or processes that can have the most impact with a return on investment perspective.",
         "url": ""
     },
     "horizontalcard1": {
@@ -151,13 +151,13 @@
     "horizontalcard2": {
         "id": "1",
         "title": "Project Management",
-        "text": "Application to define projects from their charter, through the launch and control minutes with respective definitions of deliverables, until the project closure with the definition of actions and related benefits. Allocation of workload hours, as well as project risks.",
+        "text": "App for managing projects from their charter, through the launch and control minutes with respective definitions of deliverables, until the project closure with the definition of actions and related benefits. Allocation of workload hours, as well as project risks.",
         "url": "https://www.youtube.com/watch?v=nMTd6FXW4n4"
     },
     "horizontalcard3": {
         "id": "1",
         "title": "Production",
-        "text": "Application for production planning and registration. Visualization of production and 3 lines simultaneously. Configuration of production lines based on product standardization. Definition of the product palletizing configuration.",
+        "text": "Application for production planning and registration. View up to 3 production lines simultaneously. Configuration of production lines based on product standardization. Definition of the product palletizing configuration.",
         "url": "https://www.youtube.com/watch?v=Crb-WSlBfoA"
     },
     "horizontalcard4": {
@@ -207,9 +207,9 @@
         "phone": "Phone",
         "email": "Email",
         "message": "Message",
-        "valNombre": "Introduce your name.",
-        "valPhone": "Introduce a valid phone number.",
-        "ValEmail": "Enter a valid email.",
+        "valNombre": "Please enter your name.",
+        "valPhone": "Enter a valid phone number.",
+        "ValEmail": "Enter a valid email address.",
         "ValMessage": "Enter a message.",
         "placeNombre": "Name*",
         "placePhone": "Phone",
@@ -218,11 +218,11 @@
         "btnSend": "Send Message"
     },
     "gracias": {
-        "body": "Thank you for contacting us. We will analyze your request and respond to you as soon as possible.",
+        "body": "Thank you for contacting us. We will review your request and respond to you as soon as possible.",
         "button": "Return"
     },
     "footer": {
-        "follow": "Follow us on social networks:",
+        "follow": "Follow us on social media:",
         "Actividades0": "Main activities",
         "Actividades1": "Agile and Scrum methodologies",
         "Actividades2": "Software development",
@@ -231,7 +231,7 @@
         "Rutas1": "Home",
         "Rutas2": "Services",
         "Rutas3": "Products",
-        "Rutas4": "Portfolio",
+        "Rutas4": "About Us",
         "Rutas5": "Contact",
         "Contacto0": "Contact Information",
         "Contacto1": "Avda del Ejercito, 32",

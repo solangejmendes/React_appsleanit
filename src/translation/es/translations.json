@@ -1,7 +1,7 @@
 {
     "header": {
         "navHome": "Inicio",
-        "navAbout": "Quien somos",
+        "navAbout": "Quiénes somos",
         "navServices": "Servicios",
         "navMeth": "Metodología",
         "navProd": "Productos",
@@ -10,20 +10,20 @@
     },
     "aboutus": {
         "title": "Quiénes Somos",
-        "paragraph1": "Nos dedicamos, tanto a la integración de soluciones existentes (ver apartado de Productos), como al desarrollo de soluciones de software personalizado para empresas industriales o de servicios.",
+        "paragraph1": "Nos dedicamos, tanto a la integración de soluciones existentes (ver apartado de Productos), como al desarrollo de soluciones de software a medida para empresas industriales o de servicios.",
         "paragraph2": "Nuestras soluciones tecnológicas tienen como objetivo:",
         "paragraph3": "incrementar la productividad de los procesos de negocio,",
         "paragraph4": "digitalizar procesos,",
         "paragraph5": "automatizar flujos de trabajo.",
-        "paragraph6": "Somos un equipo de Ingenieros con más de 15 años de experiencia laboral en diferentes áreas de tecnología y empresariales, como: desarrollo de software, análisis de negocios con enfoques tecnológicos y gestión de proyectos. Dominamos la plataforma Power de Microsoft."
+        "paragraph6": "Somos un equipo de Ingenieros con más de 15 años de experiencia laboral en diferentes áreas de tecnología y empresariales, como desarrollo de software, análisis de negocios con enfoques tecnológicos y gestión de proyectos. Dominamos la plataforma Power de Microsoft."
     },
     "intro": {
         "body1": "Bienvenid@ a nuestra página web",
-        "body2": "Nuestras soluciones tecnológicas, tienen como objetivo la mejora de productividad de tu empresa"
+        "body2": "Nuestras soluciones tecnológicas tienen como objetivo la mejora de productividad de tu empresa"
     },
     "tipos": {
         "title": "Plataforma Power",
-        "subtitle": "Plataforma Power es una tecnología de Microsoft de alta calidad que incluye herramientas muy potentes para el desarrollo de soluciones de transformación digital."
+        "subtitle": "La Plataforma Power es una tecnología de Microsoft de alta calidad que incluye herramientas muy potentes para el desarrollo de soluciones de transformación digital."
     },
     "ventajas": {
         "title": "Ventajas de la Plataforma Power"
@@ -34,12 +34,12 @@
     },
     "productos": {
         "title": "Productos",
-        "subtitle": "TTenemos varios paquetes estándar disponibles para utilización inmediata. Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa."
+        "subtitle": "Tenemos varios paquetes estándar disponibles para utilización inmediata. Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa."
     },
     "metodologia": {
         "title": "Metodología",
-        "subtitle": "Usamos metodología agile y control de proyectos por sprints de scrum para que su proyecto tenga éxito en el menor tiempo posible.",
-        "1": "Gestión de proyectos con el modelo Agile y Scrum·",
+        "subtitle": "Usamos metodología agile y control de proyectos por sprints de Scrum para que su proyecto tenga éxito en el menor tiempo posible.",
+        "1": "Gestión de proyectos con el modelo Agile y Scrum.",
         "2": "QA y testing de software",
         "3": "Informes y métricas"
     },
@@ -65,45 +65,45 @@
     "whitecard3": {
         "id": "3",
         "title": "Power BI",
-        "text": "Plataforma de business intelligence que integra toda la información contenida en una variedad muy amplia y diversificada de bases de datos de Azure, Microsoft, SQL, entre otras, para relacionarlas y transformar en un modelo analítico de los indicadores de proceso de su negocio.",
+        "text": "Plataforma de business intelligence que integra toda la información contenida en una variedad muy amplia y diversificada de bases de datos de Azure, Microsoft, SQL, entre otras, para relacionarlas y transformar los indicadores de proceso en un modelo analítico de su negocio.",
         "imageSource": "../../assets/images/powerBI.png",
         "url": ""
     },
     "card1": {
         "id": "1",
         "title": "Aplicaciones móviles",
-        "text": "Además de aplicaciones de desktop, se puede desarrollar aplicaciones móviles totalmente responsive a los distintos tamaños de pantalla.",
-        "url": "https://youtube.com/appsleanIT"
+        "text": "Además de aplicaciones de desktop, se pueden desarrollar aplicaciones móviles totalmente responsive a los distintos tamaños de pantalla.",
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card2": {
         "id": "1",
         "title": "Funcionalidad IoT",
         "text": "Utilización de la cámara de fotos para lectura de códigos de barra y códigos QR, subir fotos para una gestión online de incidencias u operaciones.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card3": {
         "id": "1",
         "title": "Integración",
         "text": "Aplicaciones totalmente integradas con herramientas de Microsoft Office 365 (Teams para trabajo en equipo, planificación de tareas en planner, notificaciones por email, ...).",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card4": {
         "id": "1",
         "title": "Seguridad",
-        "text": "Aplicación y datos protegidos en protocolos de Azure y personalización de accesos a la medida de las necesidades y por role de usuario.",
-        "url": "https://youtube.com/appsleanIT"
+        "text": "Aplicación y datos protegidos en protocolos de Azure y personalización de accesos a la medida de las necesidades y por rol de usuario.",
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card5": {
         "id": "1",
         "title": "Administración",
         "text": "Total autonomía en administrar los accesos y acceder al “core” (programa) de la aplicación.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "card6": {
         "id": "1",
         "title": "Versatilidad",
         "text": "Permite crear una gran variedad de aplicaciones a medida de las necesidades del negocio.",
-        "url": "https://youtube.com/appsleanIT"
+        "url": "https://youtube.com/@appsleanIT"
     },
     "servicecard1": {
         "id": "1",
@@ -217,7 +217,7 @@
         "btnSend": "Enviar Mensaje"
     },
     "footer": {
-        "follow": "Siganos en las redes sociales:",
+        "follow": "Síganos en las redes sociales:",
         "Actividades0": "Principales Actividades",
         "Actividades1": "Metodologías Agile y Scrum",
         "Actividades2": "Desarrollo de Software",
@@ -226,7 +226,7 @@
         "Rutas1": "Inicio",
         "Rutas2": "Servicios",
         "Rutas3": "Productos",
-        "Rutas4": "Portfolio",
+        "Rutas4": "Quiénes Somos",
         "Rutas5": "Contacto",
         "Contacto0": "Información de Contacto",
         "Contacto1": "Avenida del Ejercito, 32",
