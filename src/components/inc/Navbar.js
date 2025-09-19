@@ -52,6 +52,12 @@ export default function Navbar() {
                             <NavLink to="/productos" className="nav-link navbar-text">{t("header.navProd")}</NavLink>
                         </li>
                         <li className="nav-item">
+                            <NavLink to="/articles" className="nav-link navbar-text">{t("header.navArt")}</NavLink>
+                        </li>
+                        <li className="nav-item">
+                            <NavLink to="/partners" className="nav-link navbar-text">{t("header.navPart")}</NavLink>
+                        </li>
+                        <li className="nav-item">
                             <NavLink to="/contacto" className="nav-link navbar-text">{t("header.navContact")}</NavLink>
                         </li>
                     </ul>

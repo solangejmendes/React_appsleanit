@@ -331,7 +331,8 @@ video {
 
 .Bkground3 {
     /*100 del alto del dispositivo */
-    height: 250vh;
+    min-height: 100vh;     /* lets the section be at least full viewport */
+    padding-bottom: 2rem;  /* breathing room above the footer */
     width: 100%;
     background: linear-gradient(
         90deg, 

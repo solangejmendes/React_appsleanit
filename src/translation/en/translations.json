@@ -5,22 +5,25 @@
         "navServices": "Services",
         "navMeth": "Methodology",
         "navProd": "Products",
+        "navArt": "News",
+        "navPart": "Partners",
         "navContact": "Contact Us",
         "message": "Language",
-        "phone": "Call 648 808 368"
+        "phone": "Call +34 648 808 368"
     },
     "aboutus": {
         "title": "About Us",
-        "paragraph1": "We are specialize in integrating existing solutions (see Products section) and the development of customized software solutions for industrial or service companies.",
-        "paragraph2": "Our technological solutions aim to:",
-        "paragraph3": "Increase business process productivity",
-        "paragraph4": "digitize workflows,",
-        "paragraph5": "automate operations.",
-        "paragraph6": "We are a team of engineers with more than 15 years of work experience in different technology and business areas, such as: software development, business analysis with technological approaches and project management. We specialize in Microsoft's Power Platform."
+        "paragraph1": "We are technology-driven and passionate about transforming the way organizations work, innovate and grow. Our foundation lies in combining cutting-edge Microsoft technologies with proven methodologies and certifications, ensuring every solution we deliver is secure, scalable and impactful.",
+        "paragraph2": "But we’re not just about technology - we’re about purpose. We believe in embracing challenges, pushing boundaries, and turning complexity into clarity. Our goal is simple yet ambitious: to make the world and society a better place through smarter, more sustainable processes.",
+        "paragraph3": "We focus on:",
+        "paragraph4": "Digitalization of processes to reduce waste, contamination, and inefficiencies.",
+        "paragraph5": "Creating solutions that simplify workflows, giving employees more time to focus on what truly adds value to the company.",
+        "paragraph6": "Designing better ways of working, so teams enjoy what they do while being more effective and efficient.",
+        "paragraph7": "For us, every project is an opportunity to inspire change—helping people and organizations thrive in a world where technology doesn’t just support business, it shapes a brighter future."
     },
     "intro": {
         "body1": "Welcome to our homepage",
-        "body2": "Our technologies increase your productitity"
+        "body2": "Our technologies increase your productivity"
     },
     "tipos": {
         "title": "Power Platform",
@@ -37,42 +40,54 @@
         "title": "Products",
         "subtitle": "We have several standard packages available for immediate use. Packages can be adjusted according to the needs of each company."
     },
+    "articles": {
+        "title": "Articles, Blogs, News, etc...",
+        "subtitle": "Explore trending topics and expert perspectives to inspire better performance and smarter decisions."
+    },
     "metodologia": {
         "title": "Methodology",
-        "subtitle": "We use agile methodology and project control through scrum sprints to ensure your project succeeds as quickly as possible.",
-        "1": "Project management using Agile and Scrum model",
-        "2": "QA and software testing",
-        "3": "Reports and metrics"
+        "subtitle": "we apply Agile methodologies and frameworks such as Scrum to ensure that every technology project evolves iteratively, transparently, and with a customer-centric focus. This allows us to deliver value in short cycles, adapt to market changes, and guarantee solutions that truly meet organizational needs.",
+        "benefitstitle": "Benefits",
+        "benefits": "By combining Scrum + Power Platform + APIs + AI, we achieve:",
+        "1": "Fast and continuous delivery of business value.",
+        "2": "Greater collaboration between technical and business teams.",
+        "3": "Scalability and adaptability to new challenges.",
+        "4": "Constant innovation without losing project control."
+    },
+    "partners": {
+        "title": "Partners",
+        "subtitle": "We collaborate with trusted partners who share our commitment to innovation, quality, and customer success. Together, we build solutions that deliver value, accelerate transformation, and create sustainable impact for organizations worldwide."
     },
     "cards": {
         "button": "more detail",
         "link": "more information",
+        "link2": "check source of information",
         "button2": "See app video"
     },
     "whitecard1": {
         "id": "1",
-        "title": "PowerApps",
+        "title": "Power Apps",
         "text": "A development platform for creating desktop or mobile applications integrated with other software through APIs or different types of databases (SharePoint, Dataverse, SQL, Excel, among others) and that allows digitalizing and integrating business processes.",
         "imageSource": "../../assets/images/PowerApps.jpg",
-        "url": ""
+        "url": "https://www.microsoft.com/es-es/power-platform/products/power-apps"
     },
     "whitecard2": {
         "id": "2",
         "title": "Power Automate",
-        "text": "A development platform for creating automatic work or approval flows, notifications, alerts, etc. Integrated with other Microsoft Office 365 applications such as Outlook, Teams, SharePoint, OneDrive, among others, allowing a significantly boosting process productivity.",
+        "text": "A development platform for creating automatic work or approval flows, notifications, alerts, etc. Integrated with other Microsoft 365 applications such as Outlook, Teams, SharePoint, OneDrive, among others, allowing significantly boosting process productivity.",
         "imageSource": "../../assets/images/PowerAutomate3.PNG",
-        "url": ""
+        "url": "https://www.microsoft.com/es-es/power-platform/products/power-automate"
     },
     "whitecard3": {
         "id": "3",
         "title": "Power BI",
-        "text": "Business intelligence platform that integrates all the information contained in a very wide and diversified variety of Azure, Microsoft, SQL, among other databases, relates them and transforms them into an analytical model of your business process indicators.",
+        "text": "Business intelligence platform that integrates all the information contained in a very wide and diversified variety of Azure, Microsoft, SQL, among other databases, links and transforms them into an analytical model of your business performance indicators.",
         "imageSource": "../../assets/images/powerBI.png",
-        "url": ""
+        "url": "https://www.microsoft.com/es-es/power-platform/products/power-bi"
     },
     "card1": {
         "id": "1",
-        "title": "PowerApps",
+        "title": "Cloud Apps",
         "text": "In addition to desktop applications, you can develop mobile applications that are fully responsive to different screen sizes.",
         "url": "https://youtube.com/@appsleanIT"
     },
@@ -85,7 +100,7 @@
     "card3": {
         "id": "1",
         "title": "Integration",
-        "text": "Applications fully integrated with Microsoft Office 365 tools (Teams for teamwork, task planning in planner, email notifications,...).",
+        "text": "Applications fully integrated with Microsoft Office 365 tools (Teams for teamwork, task planning in Planner, email notifications,...).",
         "url": "https://youtube.com/@appsleanIT"
     },
     "card4": {
@@ -109,38 +124,56 @@
     "servicecard1": {
         "id": "1",
         "title": "Process digitalization",
-        "text": "Eliminate paperwork and work remotely.",
-        "url": ""
+        "text": "We work with Microsoft Power Platform to build business applications that are fast, scalable, and secure.",
+        "url": "/contacto"
     },
     "servicecard2": {
         "id": "1",
         "title": "Process automation",
-        "text": "No more forgetfulness. The process will notify you when it's time to act.",
-        "url": ""
+        "text": "No more forgetfulness. The process will notify you when it's time to act or do it automatically for you.",
+        "url": "/contacto"
     },
     "servicecard3": {
         "id": "1",
-        "title": "Tool integration",
-        "text": "Integrates several applications within Office 365.",
-        "url": ""
+        "title": "API integration",
+        "text": "No solution exists in isolation. That’s why we prioritize connection through APIs to  guarantee scalability and flexibility.",
+        "url": "/contacto"
     },
     "servicecard4": {
         "id": "1",
         "title": "Data analytics / Dashboards",
-        "text": "Navigate the metrics crucial to your operations to take the most relevant actions.",
-        "url": ""
+        "text": "Turn raw data into a visual overview of key metrics and trends to help track performance, make informed decisions quickly, and detect opportunities for improvement.",
+        "url": "/contacto"
     },
     "servicecard5": {
         "id": "1",
-        "title": "Evolutive maintenance",
-        "text": "Technical and evolutionary support (improvements, integrations and extensions of the implemented applications).",
-        "url": ""
+        "title": "Artificial Intelligence",
+        "text": "We combine AI and machine learning to enhance solutions. From intelligent data processing to predictive models, we deliver personalized experiences.",
+        "url": "/contacto"
     },
     "servicecard6": {
         "id": "1",
-        "title": "IT consulting",
-        "text": "We advise you in the tool or processes that can have the most impact with a return on investment perspective.",
-        "url": ""
+        "title": "Evolutive maintenance",
+        "text": "It adapts solutions to evolving business needs, keeping systems efficient and up to date by implementing new features, integrations, and extensions.",
+        "url": "/contacto"
+    },
+    "Methodologycard1": {
+        "id": "1",
+        "title": "Agile",
+        "text": "Emphasize collaboration, adaptability, and delivering value early and often. It fosters continuous improvement, customer focus, and flexibility in dynamic environments.",
+        "url": "/contacto"
+    },
+    "Methodologycard2": {
+        "id": "1",
+        "title": "Scrum",
+        "text": "Scrum enables teams to plan, execute, and review work in short cycles, called sprints, and empowers teams to focus on delivering incremental value.",
+        "url": "/contacto"
+    },
+    "Methodologycard3": {
+        "id": "1",
+        "title": "Kanban",
+        "text": "A visual tool that ensure flow through stages bringing transparency among the team and helping to limit work in progress and reduce bottlenecks.",
+        "url": "/contacto"
     },
     "horizontalcard1": {
         "id": "1",
@@ -196,6 +229,55 @@
         "text": "Mobile application to record all reverse logistics from production: Returns that will follow a claim to the supplier for poor condition; Breakage due to damage on the production line; and Surpluses from production that will be returned to the stock of raw materials.",
         "url": "https://www.youtube.com/watch?v=D_wuJguJRQs"
     },
+    "horizontalcardarticle1": {
+        "id": "1",
+        "date": "13/10/2024 ",
+        "title": "Lean Six Sigma PowerBox streamline event",
+        "text": "AppsLeanIT PowerBox is a responsive technological solution which enhance Kaizen events by enabling real-time data collection, communication, and collaboration, allowing employees to quickly identify inefficiencies and propose improvement ideas. These tools streamline LeanSixSigma processes, helping teams implement changes more effectively and measure results with greater accuracy.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7251167506600476673"
+    },
+    "horizontalcardarticle2": {
+        "id": "2",
+        "date": "14/05/2025  ",
+        "title": "✨ Ready to take your Lean game to the next level?",
+        "text": "Let’s be honest — sticky notes, spreadsheets, and slide decks have had their moment. If you're running continuous improvement projects or helping clients drive real change, you know how messy things can get. That’s why we built #LeanSixSigma #PowerTools — a set of smart, simple apps designed to digitalize #Lean implementation from the ground up. 📈 Track #projects, align #teams, visualize progress, and make your impact visible — all in one place",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7328483643222331393"
+    },
+    "horizontalcardarticle3": {
+        "id": "3",
+        "date": "24/06/2024",
+        "title": "Generate and following up Kaizen",
+        "text": "Discover how our Improvement Generation app help teams in companies register, prioritize, and validate improvement opportunities—across multiple languages and departments. From idea submission to tool validation and tracking, this solution simplifies your continuous improvement process. Multilingual support; Smart prioritization; Role-based approvals; Integrated validation workflow; Notification to stakeholders. Watch the demo and see how we enable real impact with less effort.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7343175443363106816"
+    },
+    "horizontalcardarticle4": {
+        "id": "4",
+        "date": "02/07/2025",
+        "title": "🚀 Automating product BOM configuration and delivery data registration!",
+        "text": "A solution that simplifies how products and their Bill of Materials are registered and managed. 1. Register the product; 2. Upload a structured Excel with materials and quantities; 3- Automate data upload to SharePoint with Power Automate; 4. Sync customer delivery dates and quantities; 5. Get notified when everything’s ready. Watch this short video to see how it works in action! 🎥",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7346116579979419650"
+    },
+    "horizontalcardarticle5": {
+        "id": "5",
+        "date": "15/07/2025",
+        "title": "🚀 We're a Microsoft Partner! 🎉",
+        "text": "We're proud to announce that we've officially become a Microsoft Partner — a key milestone that validates our commitment to delivering high-quality, innovative solutions built on Microsoft technologies.This partnership empowers us to help organizations accelerate their digital transformation, streamline processes, and provide more value through technology.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7350929141858287616"
+    },
+    "horizontalcardarticle6": {
+        "id": "6",
+        "date": "27/07/2025",
+        "title": "What is LeanKanban and how can it be digitized? 🔹",
+        "text": "In Lean manufacturing environments, the Kanban system helps manage the flow of materials efficiently, reducing excess inventory and ensuring that production receives only what is needed, when it is needed. Instead of flooding the production line with materials, the Lean-Kanban approach coordinates replenishment and production based on real demand, making replenishment easier and improving overall efficiency. This solution is ideal for organizations seeking to implement Lean manufacturing in a practical and scalable way.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7355142870627954688"
+    },
+    "horizontalcardarticle7": {
+        "id": "7",
+        "date": "01/09/2025",
+        "title": "🎬 Cineplex's process automation is transforming how the company serves millions of guests every year.",
+        "text": "What started as small-scale experiments has grown into 400+ solutions across the business - streamlining refunds, payments, customer inquiries, and more. Together, these automations save 30,000+ hours annually, giving teams more time to focus on creating great guest experiences. In Guest Services, refund handling times have dropped from up to 15 minutes to under a minute - processing 5,000+ requests in just 5 months. Other teams are using AI to reduce email back-and-forth, accelerate payments, and simplify complex processes. The result? Faster service, happier guests, and a culture where automation powers smarter ways of working.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7368203782817570816"
+    },
     "contacto": {
         "form": "Contact Form",
         "address": "Address Information",
@@ -234,11 +316,11 @@
         "Rutas4": "About Us",
         "Rutas5": "Contact",
         "Contacto0": "Contact Information",
-        "Contacto1": "Avda del Ejercito, 32",
+        "Contacto1": "Avda. del Ejercito, 32",
         "Contacto2": "28500 Madrid",
         "Contacto3": "Spain",
         "phone": "Phone:",
         "design1": "Designed by:",
-        "design2": "in 2025" 
+        "design2": "© 2025" 
     }
 }

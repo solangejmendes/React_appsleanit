@@ -5,28 +5,32 @@
         "navServices": "Servicios",
         "navMeth": "Metodología",
         "navProd": "Productos",
+        "navArt": "Noticias",
+        "navPart": "Socios",
         "navContact": "Contacto",
-        "phone": "Llámanos 648 808 368"
+        "message": "Idioma",
+        "phone": "Llámanos +34 648 808 368"
     },
     "aboutus": {
-        "title": "Quiénes Somos",
-        "paragraph1": "Nos dedicamos, tanto a la integración de soluciones existentes (ver apartado de Productos), como al desarrollo de soluciones de software a medida para empresas industriales o de servicios.",
-        "paragraph2": "Nuestras soluciones tecnológicas tienen como objetivo:",
-        "paragraph3": "incrementar la productividad de los procesos de negocio,",
-        "paragraph4": "digitalizar procesos,",
-        "paragraph5": "automatizar flujos de trabajo.",
-        "paragraph6": "Somos un equipo de Ingenieros con más de 15 años de experiencia laboral en diferentes áreas de tecnología y empresariales, como desarrollo de software, análisis de negocios con enfoques tecnológicos y gestión de proyectos. Dominamos la plataforma Power de Microsoft."
+        "title": "Quiénes somos",
+        "paragraph1": "Somos una empresa impulsada por la tecnología y apasionada por transformar la forma en que las organizaciones trabajan, innovan y crecen. Nuestra base se sustenta en combinar tecnologías Microsoft de vanguardia con metodologías y certificaciones probadas, garantizando que cada solución que entregamos sea segura, escalable y con impacto.",
+        "paragraph2": "Pero no se trata solo de tecnología: se trata de propósito. Creemos en asumir retos, ir más allá de los límites y convertir la complejidad en claridad. Nuestro objetivo es simple pero ambicioso: hacer del mundo y la sociedad un lugar mejor mediante procesos más inteligentes y sostenibles.",
+        "paragraph3": "Nos enfocamos en:",
+        "paragraph4": "Digitalización de procesos para reducir desperdicios, contaminación e ineficiencias.",
+        "paragraph5": "Creación de soluciones que simplifican la forma de trabajar, dando a los empleados más tiempo para lo que realmente aporta valor a la compañía.",
+        "paragraph6": "Diseño de mejores maneras de trabajar, para que los equipos disfruten de lo que hacen mientras son más efectivos y eficientes.",
+        "paragraph7": "Para nosotros, cada proyecto es una oportunidad para inspirar el cambio, ayudando a personas y organizaciones a prosperar en un mundo donde la tecnología no solo apoya al negocio, sino que moldea un futuro más brillante."
     },
     "intro": {
         "body1": "Bienvenid@ a nuestra página web",
-        "body2": "Nuestras soluciones tecnológicas tienen como objetivo la mejora de productividad de tu empresa"
+        "body2": "Nuestras soluciones tecnológicas tienen como objetivo la mejora de la productividad de tu empresa"
     },
     "tipos": {
-        "title": "Plataforma Power",
-        "subtitle": "La Plataforma Power es una tecnología de Microsoft de alta calidad que incluye herramientas muy potentes para el desarrollo de soluciones de transformación digital."
+        "title": "Power Platform",
+        "subtitle": "Power Platform es una tecnología líder de Microsoft que incluye herramientas muy potentes para el desarrollo de soluciones de transformación digital."
     },
     "ventajas": {
-        "title": "Ventajas de la Plataforma Power"
+        "title": "Ventajas de Power Platform"
     },
     "servicios": {
         "title": "Servicios",
@@ -34,117 +38,147 @@
     },
     "productos": {
         "title": "Productos",
-        "subtitle": "Tenemos varios paquetes estándar disponibles para utilización inmediata. Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa."
+        "subtitle": "Tenemos varios paquetes estándar disponibles para uso inmediato. Los paquetes pueden ser ajustados de acuerdo a las necesidades de cada empresa."
+    },
+    "articles": {
+        "title": "Artículos, blogs y noticias",
+        "subtitle": "Explora temas en tendencia y perspectivas de expertos para inspirar un mejor rendimiento y decisiones más inteligentes."
     },
     "metodologia": {
         "title": "Metodología",
-        "subtitle": "Usamos metodología agile y control de proyectos por sprints de Scrum para que su proyecto tenga éxito en el menor tiempo posible.",
-        "1": "Gestión de proyectos con el modelo Agile y Scrum.",
-        "2": "QA y testing de software",
-        "3": "Informes y métricas"
+        "subtitle": "Aplicamos metodologías Agile y marcos como Scrum para asegurar que cada proyecto tecnológico evolucione de forma iterativa, transparente y con enfoque en el cliente. Esto nos permite entregar valor en ciclos cortos, adaptarnos a los cambios del mercado y garantizar soluciones que realmente respondan a las necesidades de la organización.",
+        "benefitstitle": "Beneficios",
+        "benefits": "Al combinar Scrum + Power Platform + APIs + IA, logramos:",
+        "1": "Entrega rápida y continua de valor de negocio.",
+        "2": "Mayor colaboración entre equipos técnicos y de negocio.",
+        "3": "Escalabilidad y adaptabilidad ante nuevos retos.",
+        "4": "Innovación constante sin perder el control del proyecto."
+    },
+    "partners": {
+        "title": "Socios",
+        "subtitle": "Colaboramos con partners de confianza que comparten nuestro compromiso con la innovación, la calidad y el éxito del cliente. Juntos, construimos soluciones que aportan valor, aceleran la transformación y crean un impacto sostenible en organizaciones de todo el mundo."
     },
     "cards": {
-        "button": "más detalle",
-        "link": "más información",
-        "button2": "Ver video de la aplicación"
+        "button": "Más detalle",
+        "link": "Más información",
+        "link2": "Ver fuente",
+        "button2": "Ver el vídeo de la aplicación"
     },
     "whitecard1": {
         "id": "1",
-        "title": "PowerApps",
-        "text": "Plataforma de programación para desarrollar aplicaciones de desktop o móviles integrados a otros softwares a través de APIs o a diferentes tipos de bases de datos (SharePoint, Dataverse, SQL, Excel, entre otras) y que permite digitalizar e integrar los procesos de negocio.",
+        "title": "Power Apps",
+        "text": "Plataforma de programación para desarrollar aplicaciones de escritorio o móviles integradas con otros sistemas mediante API o con diferentes bases de datos (SharePoint, Dataverse, SQL, Excel, entre otras), permitiendo digitalizar e integrar procesos de negocio.",
         "imageSource": "PowerApps.jpg",
-        "url": ""
+        "url": "https://www.microsoft.com/es-es/power-platform/products/power-apps"
     },
     "whitecard2": {
         "id": "2",
         "title": "Power Automate",
-        "text": "Plataforma de programación para desarrollar flujos automáticos de trabajo o aprobación, notificaciones, alertas, etc. integrados con otras aplicaciones de Microsoft Office 365 como Outlook, Teams, SharePoint, OneDrive, entre otras, permitiendo un incremento sustancial de la productividad de los procesos de negocio.",
+        "text": "Plataforma de programación para desarrollar flujos automáticos de trabajo o aprobación, notificaciones, alertas, etc. integrados con otras aplicaciones de Microsoft 365 como Outlook, Teams, SharePoint, OneDrive, entre otras, impulsando significativamente la productividad de los procesos.",
         "imageSource": "../../assets/images/PowerAutomate3.PNG",
-        "url": ""
+        "url": "https://www.microsoft.com/es-es/power-platform/products/power-automate"
     },
     "whitecard3": {
         "id": "3",
         "title": "Power BI",
-        "text": "Plataforma de business intelligence que integra toda la información contenida en una variedad muy amplia y diversificada de bases de datos de Azure, Microsoft, SQL, entre otras, para relacionarlas y transformar los indicadores de proceso en un modelo analítico de su negocio.",
+        "text": "Plataforma de business intelligence que integra toda la información contenida en una variedad muy amplia y diversificada de bases de datos de Azure, SQL Server, entre otras, las relaciona y transforma en un modelo analítico con indicadores clave de tus procesos.",
         "imageSource": "../../assets/images/powerBI.png",
-        "url": ""
+        "url": "https://www.microsoft.com/es-es/power-platform/products/power-bi"
     },
     "card1": {
         "id": "1",
-        "title": "Aplicaciones móviles",
-        "text": "Además de aplicaciones de desktop, se pueden desarrollar aplicaciones móviles totalmente responsive a los distintos tamaños de pantalla.",
+        "title": "Cloud Apps",
+        "text": "Además de aplicaciones de pantalla estándar, se pueden desarrollar aplicaciones móviles con diseño responsive para distintos tamaños de pantalla.",
         "url": "https://youtube.com/@appsleanIT"
     },
     "card2": {
         "id": "1",
         "title": "Funcionalidad IoT",
-        "text": "Utilización de la cámara de fotos para lectura de códigos de barra y códigos QR, subir fotos para una gestión online de incidencias u operaciones.",
+        "text": "Uso de la cámara para leer códigos de barras y QR, y subir fotos para la gestión online de incidencias u operaciones.",
         "url": "https://youtube.com/@appsleanIT"
     },
     "card3": {
         "id": "1",
         "title": "Integración",
-        "text": "Aplicaciones totalmente integradas con herramientas de Microsoft Office 365 (Teams para trabajo en equipo, planificación de tareas en planner, notificaciones por email, ...).",
+        "text": "Aplicaciones integradas con Microsoft 365 (Teams para colaboración, Planner para gestión de tareas, Outlook para notificaciones por correo, etc.).",
         "url": "https://youtube.com/@appsleanIT"
     },
     "card4": {
         "id": "1",
         "title": "Seguridad",
-        "text": "Aplicación y datos protegidos en protocolos de Azure y personalización de accesos a la medida de las necesidades y por rol de usuario.",
+        "text": "Aplicaciones y datos protegidos con protocolos de seguridad de Azure, con acceso basado en roles y personalizado a tus necesidades.",
         "url": "https://youtube.com/@appsleanIT"
     },
     "card5": {
         "id": "1",
         "title": "Administración",
-        "text": "Total autonomía en administrar los accesos y acceder al “core” (programa) de la aplicación.",
+        "text": "Autonomía total para gestionar accesos y mantener la configuración central de la aplicación.",
         "url": "https://youtube.com/@appsleanIT"
     },
     "card6": {
         "id": "1",
         "title": "Versatilidad",
-        "text": "Permite crear una gran variedad de aplicaciones a medida de las necesidades del negocio.",
+        "text": "Permite crear una gran variedad de aplicaciones a medida de las necesidades de tu negocio.",
         "url": "https://youtube.com/@appsleanIT"
     },
     "servicecard1": {
         "id": "1",
         "title": "Digitalización de procesos",
-        "text": "Te permite quitar el papel y trabajar en remoto. ",
-        "url": ""
+        "text": "Trabajamos con Microsoft Power Platform para construir aplicaciones de negocio rápidas, escalables y seguras.",
+        "url": "/contacto"
     },
     "servicecard2": {
         "id": "1",
         "title": "Automatización de procesos",
-        "text": "No más olvidos. El propio proceso te notificará cuando sea el momento indicado. ",
-        "url": ""
+        "text": "Ninguna solución existe de forma aislada. Por eso priorizamos la conexión mediante APIs para garantizar escalabilidad y flexibilidad.",
+        "url": "/contacto"
     },
     "servicecard3": {
         "id": "1",
-        "title": "Integración de herramientas",
-        "text": "Integra varias aplicaciones dentro de Office 365.",
-        "url": ""
+        "title": "Integración de APIs",
+        "text": "Ninguna solución existe de forma aislada. Por eso priorizamos la conexión mediante APIs para garantizar escalabilidad y flexibilidad.",
+        "url": "/contacto"
     },
     "servicecard4": {
         "id": "1",
         "title": "Analítica de datos / Dashboards",
-        "text": "Navega en las métricas cruciales a tus operaciones para tomar las acciones más pertinentes.",
-        "url": ""
+        "text": "Convierte los datos en bruto en una visión de conjunto de métricas y tendencias clave, ayuda a seguir el rendimiento, tomar decisiones informadas con rapidez y detectar oportunidades de mejora.",
+        "url": "/contacto"
     },
     "servicecard5": {
         "id": "1",
-        "title": "Mantenimiento Evolutivo",
-        "text": "Soporte técnico y evolutivos (mejoras, integraciones y ampliaciones de las aplicaciones implementadas).",
-        "url": ""
+        "title": "Inteligencia Artificial",
+        "text": "Combinamos IA y aprendizaje automático para potenciar las soluciones: desde el procesamiento inteligente de datos hasta modelos predictivos, personalizamos las experiencias.",
+        "url": "/contacto"
     },
     "servicecard6": {
         "id": "1",
-        "title": "Consultoría IT",
-        "text": "Orientamos en la herramienta o procesos que más pueda impactar con una perspectiva de retorno de la inversión.",
-        "url": ""
+        "title": "Mantenimiento evolutivo",
+        "text": "Adaptamos las soluciones a las necesidades cambiantes del negocio, manteniendo los sistemas eficientes y actualizados mediante nuevas funcionalidades, integraciones y extensiones.",
+        "url": "/contacto"
+    },
+    "Methodologycard1": {
+        "id": "1",
+        "title": "Agile",
+        "text": "Hace hincapié en la colaboración, la adaptabilidad y la entrega de valor temprana y frecuente. Fomenta la mejora continua, el enfoque en el cliente y la flexibilidad en entornos dinámicos.",
+        "url": "/contacto"
+    },
+    "Methodologycard2": {
+        "id": "1",
+        "title": "Scrum",
+        "text": "Permite planificar, ejecutar y revisar el trabajo en ciclos cortos (sprints), empoderando a los equipos para entregar valor de forma incremental.",
+        "url": "/contacto"
+    },
+    "Methodologycard3": {
+        "id": "1",
+        "title": "Kanban",
+        "text": "Una herramienta visual que asegura el flujo a través de las etapas, aporta transparencia al equipo y ayuda a limitar el trabajo en curso y reducir cuellos de botella.",
+        "url": "/contacto"
     },
     "horizontalcard1": {
         "id": "1",
-        "title": "Lean Auditorías 5s",
-        "text": "Aplicación móvil para contestar a pie de operación a preguntas relacionadas con los criterios de buenas prácticas de Lean 5s. Formulario libre o accesible por medio de código de acceso. Cálculo del resultado final obtenido. Varias notificaciones automáticas por email a los equipos responsables por las áreas evaluadas. Consulta de formularios por distintos filtros.",
+        "title": "Auditorías Lean 5S",
+        "text": "Aplicación móvil para contestar a pie de operación a preguntas relacionadas con los criterios de buenas prácticas de Lean 5S. Formulario libre o accesible por medio de código de acceso. Cálculo del resultado final obtenido. Varias notificaciones automáticas por email a los equipos responsables por las áreas evaluadas. Consulta de formularios por distintos filtros.",
         "url": "https://www.youtube.com/watch?v=nMTd6FXW4n4"
     },
     "horizontalcard2": {
@@ -156,31 +190,31 @@
     "horizontalcard3": {
         "id": "1",
         "title": "Producción",
-        "text": "Aplicación para planificación y registro de producción. Visualización de la producción e 3 líneas en simultaneo. Configuración de las líneas de producción en función de la estandarización de productos. Definición de la configuración de paletizado del producto.",
+        "text": "Aplicación para planificación y registro de producción. Visualización de la producción hasta tres líneas de forma simultánea. Configuración de las líneas de producción en función de la estandarización de productos. Definición de la configuración de paletizado del producto.",
         "url": "https://www.youtube.com/watch?v=Crb-WSlBfoA"
     },
     "horizontalcard4": {
         "id": "1",
         "title": "Pedidos de clientes",
-        "text": "Alta y edición de clientes. Alta y edición de productos. Alta y edición de ordenes de clientes. Planificación de pedidos de clientes.",
+        "text": "Alta y edición de clientes. Alta y edición de productos. Alta y edición de órdenes de clientes. Planificación de pedidos de clientes.",
         "url": "https://www.youtube.com/watch?v=sZHcORgvtS8"
     },
     "horizontalcard5": {
         "id": "1",
-        "title": "Carga masiva de productos y sus lista de materiales",
-        "text": "Carga automática de la lista de materiales y configuración completa de un producto. Archivo csv cargado en SharePoint que será utilizado por una aplicación en PowerApps para producción y suministro de los materiales.",
+        "title": "Carga masiva de productos y sus listas de materiales",
+        "text": "Carga automática de la lista de materiales y configuración completa de un producto. Archivo CSV cargado en SharePoint que será utilizado por una aplicación en Power Apps para producción y suministro de los materiales.",
         "url": "https://www.youtube.com/watch?v=v2yNs-1C1bQ"
     },
     "horizontalcard6": {
         "id": "1",
         "title": "Recepción de mercancía",
-        "text": "Aplicación móvil para registrar la recepción de mercancía a pie de operación tanto por introducción manual del número de referencia como por lectura del código de barras. Registro de la configuración de cada mercancía cuando al pack en la que viene contenida como el paletizado. Balance de la recepción con relación a los pedidos de mercancía introducidos.",
+        "text": "Aplicación móvil para registrar la recepción de mercancía a pie de operación tanto por introducción manual del número de referencia mediante lectura de código de barras. Registro de la configuración de cada mercancía cuando se ubica en el palet en el que llega (paletizado). Cuadre de la recepción respecto a los pedidos de mercancía introducidos.",
         "url": "https://www.youtube.com/watch?v=Ye_0IPtaPwM"
     },
     "horizontalcard7": {
         "id": "1",
-        "title": "Guardado de mercancía",
-        "text": "Aplicación móvil para registrar el guardado de mercancía a pie de operación. Posibilidad de introducción manual de referencia (con validación en el sistema de la mercancía dada de alta) como por lectura de código de barras y balance del guardado pendiente en función de la mercancía recibida y de la ya guardada. Asignación de hueco de guardado por lectura de código de barras del hueco para evitar errores de introducción de datos.",
+        "title": "Almacenaje de mercancía",
+        "text": "Aplicación móvil para registrar el guardado de mercancía a pie de operación. Posibilidad de introducción manual de referencia (con validación en el sistema de la mercancía dada de alta) mediante lectura de código de barras y balance del almacenamiento pendiente en función de la mercancía recibida y de la ya guardada. Asignación de ubicación de almacenamiento por lectura de código de barras del hueco para evitar errores de introducción de datos.",
         "url": "https://www.youtube.com/watch?v=BIiCimkh8qA"
     },
     "horizontalcard8": {
@@ -191,49 +225,102 @@
     },
     "horizontalcard9": {
         "id": "1",
-        "title": "Logística Inversa",
-        "text": "Aplicación móvil para registrar toda la logística inversa procedente de la producción: Devoluciones que seguirán una reclamación a proveedor por mal estado; Roturas por se haber dañado en la línea de producción; y Sobrantes de la producción que serán devueltos al stock de materia prima.",
+        "title": "Logística inversa",
+        "text": "Aplicación móvil para registrar toda la logística inversa procedente de la producción: Devoluciones que seguirán una reclamación a proveedor por mal estado; roturas por daños en la línea de producción; y Sobrantes de la producción que serán devueltos al stock de materia prima.",
         "url": "https://www.youtube.com/watch?v=D_wuJguJRQs"
     },
+    "horizontalcardarticle1": {
+        "id": "1",
+        "date": "13/10/2024 ",
+        "title": "Evento PowerBox de Lean Six Sigma: optimizando Kaizen",
+        "text": "AppsLeanIT PowerBox es un conjunto de soluciones tecnológicas que potencian los eventos Kaizen al habilitar la captura de datos en tiempo real, la comunicación y la colaboración. Esto permite a los equipos identificar ineficiencias rápidamente y proponer ideas de mejora. Estas herramientas agilizan los procesos Lean Six Sigma, ayudando a implementar cambios con más eficacia y a medir los resultados con mayor precisión.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7251167506600476673"
+    },
+    "horizontalcardarticle2": {
+        "id": "2",
+        "date": "14/05/2025  ",
+        "title": "✨ ¿Listo para llevar tu Lean al siguiente nivel?",
+        "text": "Seamos sinceros: las notas adhesivas, hojas de cálculo y presentaciones ya tuvieron su momento. Si gestionas proyectos de mejora continua o ayudas a tus clientes a generar cambios reales, sabes lo caótico que puede ser. Por eso creamos #LeanSixSigma #PowerTools: un conjunto de apps simples e inteligentes diseñadas para digitalizar la implantación de Lean desde la base. 📈 Haz seguimiento de proyectos, alinea equipos, visualiza el progreso y haz visible tu impacto — todo en un mismo lugar.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7328483643222331393"
+    },
+    "horizontalcardarticle3": {
+        "id": "3",
+        "date": "24/06/2024",
+        "title": "Generación y seguimiento de Kaizen",
+        "text": "Descubre cómo nuestra app de Generación de Mejoras ayuda a registrar, priorizar y validar oportunidades en varios idiomas y departamentos. Desde el envío de ideas hasta la validación y el seguimiento, simplifica tu proceso de mejora continua. Funcionalidades: soporte multilingüe, priorización inteligente, aprobaciones por rol, flujo de validación integrado y notificaciones a los interesados. Mira la demo y comprueba cómo generamos impacto real con menos esfuerzo.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7343175443363106816"
+    },
+    "horizontalcardarticle4": {
+        "id": "4",
+        "date": "02/07/2025",
+        "title": "🚀 Automatización de la configuración de BOM y registro de entregas",
+        "text": "Una solución que simplifica el registro y gestión de productos y sus listas de materiales (BOM). 1) Registra el producto; 2) Sube un Excel estructurado con materiales y cantidades; 3) Automatiza la carga en SharePoint con Power Automate; 4) Sincroniza fechas y cantidades de entrega con el cliente; 5) Recibe una notificación cuando todo esté listo. Mira este breve vídeo para ver cómo funciona en acción. 🎥",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7346116579979419650"
+    },
+    "horizontalcardarticle5": {
+        "id": "5",
+        "date": "15/07/2025",
+        "title": "🚀 ¡Ya somos Microsoft Partner! 🎉",
+        "text": "Nos enorgullece anunciar que oficialmente nos hemos convertido en Microsoft Partner — un hito que valida nuestro compromiso de ofrecer soluciones innovadoras y de alta calidad basadas en tecnologías Microsoft. Esta alianza nos impulsa a ayudar a las organizaciones a acelerar su transformación digital, optimizar procesos y aportar más valor mediante la tecnología.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7350929141858287616"
+    },
+    "horizontalcardarticle6": {
+        "id": "6",
+        "date": "27/07/2025",
+        "title": "¿Qué es LeanKanban y cómo puede digitalizarse? 🔹",
+        "text": "En los entornos de fabricación, el sistema Kanban ayuda a gestionar el flujo de materiales de manera eficiente, reduciendo el exceso de inventario y asegurando que la producción reciba solo lo que necesita, cuando lo necesita. En lugar de saturar la línea de producción con materiales, el enfoque Lean-Kanban coordina el reabastecimiento y la producción en función de la demanda real, lo que facilita el reabastecimiento y mejora la eficiencia general. Esta solución es ideal para organizaciones que buscan implementar la manufactura Lean de manera práctica y escalable.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7251167506600476673"
+    },
+    "horizontalcardarticle7": {
+        "id": "7",
+        "date": "01/09/2025",
+        "title": "🎬 La automatización en Cineplex transforma el servicio a millones de clientes",
+        "text": "Lo que empezó como pequeños experimentos hoy son más de 400 soluciones en toda la empresa: reembolsos, pagos, consultas de clientes y más. Estas automatizaciones ahorran más de 30.000 horas al año, liberando tiempo para crear mejores experiencias. En Atención al Cliente, los reembolsos pasaron de tardar hasta 15 minutos a menos de 1, procesando más de 5.000 solicitudes en solo cinco meses. Otros equipos usan IA para reducir correos, acelerar pagos y simplificar procesos. El resultado: servicio más rápido, clientes más felices y una cultura donde la automatización impulsa nuevas formas de trabajar.",
+        "url": "https://www.linkedin.com/feed/update/urn:li:activity:7368203782817570816"
+    },
     "contacto": {
-        "form": "Formulario de Contacto",
+        "form": "Formulario de contacto",
         "address": "Dirección",
         "phone": "Telf.:",
-        "email": "email:"
+        "email": "Email:"
     },
     "form": {
         "nombre": "Nombre",
         "phone": "Teléfono",
         "email": "Correo electrónico",
         "message": "Mensaje",
-        "valNombre": "Introduce el nombre.",
+        "valNombre": "Introduce tu nombre",
         "valPhone": "Introduce un número de teléfono válido.",
         "ValEmail": "Introduce un email válido.",
         "ValMessage": "Introduce un mensaje.",
         "placeNombre": "Nombre*",
         "placePhone": "Teléfono",
         "placeEmail": "Email*",
-        "placeMessage": "Escribe aquí el mensaje ...",
-        "btnSend": "Enviar Mensaje"
+        "placeMessage": "Escribe aquí tu mensaje...",
+        "btnSend": "Enviar"
+    },
+    "gracias": {
+        "body": "Gracias por contactarnos. Revisaremos tu solicitud y te responderemos lo antes posible.",
+        "button": "Volver"
     },
     "footer": {
-        "follow": "Síganos en las redes sociales:",
+        "follow": "Síguenos en redes sociales:",
         "Actividades0": "Principales Actividades",
         "Actividades1": "Metodologías Agile y Scrum",
         "Actividades2": "Desarrollo de Software",
         "Actividades3": "Servicio / Mantenimiento Web",
-        "Rutas0": "Rutas Rápidas",
+        "Rutas0": "Accesos rápidos",
         "Rutas1": "Inicio",
         "Rutas2": "Servicios",
         "Rutas3": "Productos",
-        "Rutas4": "Quiénes Somos",
+        "Rutas4": "Quiénes somos",
         "Rutas5": "Contacto",
         "Contacto0": "Información de Contacto",
-        "Contacto1": "Avenida del Ejercito, 32",
+        "Contacto1": "Avda. del Ejército, 32",
         "Contacto2": "28500 Madrid",
         "Contacto3": "España",
         "phone": "Telf.:",
         "design1": "Diseñado por:",
-        "design2": "en 2025"
+        "design2": "© 2025"
     }
 }

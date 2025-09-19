@@ -5,6 +5,8 @@ import Footer from './components/inc/Footer';
 import Inicio from './components/pages/Inicio';
 import Servicios from './components/pages/Servicios';
 import Productos from './components/pages/Productos';
+import Articles from './components/pages/Articles';
+import Partners from './components/pages/Partners';
 import Contacto from './components/pages/Contacto';
 import Gracias from './components/pages/inc/Gracias';
 import Quiensomos from './components/pages/Quiensomos';
@@ -19,8 +21,10 @@ function App() {
               <Routes>
                   <Route path="servicios" element={<Servicios />} />
                   <Route path="productos" element={<Productos />} />
+                  <Route path="articles" element={<Articles />} />
                   <Route path="quiensomos" element={<Quiensomos />} />
                   <Route path="metodologia" element={<Metodologia />} />
+                  <Route path="partners" element={<Partners />} />
                   <Route path="contacto" element={<Contacto />} />
                   <Route path="gracias" element={<Gracias />} />
                   <Route path="/" element={<Inicio />} />
