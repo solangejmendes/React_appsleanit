@@ -1,5 +1,4 @@
 import React from 'react';
-import Cardshorizontal from '../inc/Cardshorizontal';
 import { useTranslation } from 'react-i18next'
 import Cardshorizontalarticle from '../inc/Cardshorizontalarticle';
 
