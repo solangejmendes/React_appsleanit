@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types'
 
 import { useTranslation } from 'react-i18next';
@@ -21,9 +22,9 @@ export default function Card({title, imageSource, text, url}) {
                             text ? text : 'Texto pendiente'
                         }
                     </p>
-                    <a href={url} className='btn btn-outline-secondary rounded-0' target="_blank" rel="noreferrer">
+                    <Link to={url} className='btn btn-outline-secondary rounded-0' target="_blank" rel="noreferrer">
                         {t("cards.button")}
-                    </a>
+                    </Link>
                 </div>
             </div>
 
