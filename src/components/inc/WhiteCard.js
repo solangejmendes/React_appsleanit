@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Link } from 'react-router-dom';
 
 import { useTranslation } from 'react-i18next';
 
@@ -22,7 +21,7 @@ export default function WhiteCard({title, imageSource, text, url}) {
                                 text ? text : 'Texto pendiente'
                             }
                         </p>
-                        <Link to={url} className="btn btn-link">{t("cards.link")}</Link>
+                        <a href={url} className="btn btn-link" target='blank'>{t("cards.link")}</a>
                     </div>
                 </div>
             </div>

@@ -32,7 +32,7 @@ export default function Navbar() {
                 </button>
 
                 {/* Contenido colapsable */}
-                <div className="collapse navbar-collapse w-100" id="navbarNav">
+                <div className="collapse navbar-collapse" id="navbarNav">
                     
                     {/* Menú centrado */}
                     <ul className="navbar-nav mb-2 mb-lg-0 d-flex flex-column flex-lg-row justify-content-center w-100 text-lg-center text-end">
@@ -63,7 +63,7 @@ export default function Navbar() {
                     </ul>
 
                     {/* Selector de idioma + contacto */}
-                    <div className="d-flex flex-lg-row flex-column align-items-lg-center align-items-end justify-content-lg-end justify-content-center text-end gap-2 ms-lg-3 mt-3 mt-lg-0 w-100 w-lg-auto">
+                    <div className="ms-lg-auto d-flex align-items-center gap-2 mt-3 mt-lg-0">
                         <div className="lang-wrapper">
                             <LanguageSelector />
                         </div>
