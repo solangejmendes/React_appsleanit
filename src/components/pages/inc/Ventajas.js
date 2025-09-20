@@ -1,5 +1,5 @@
 import React from 'react';
-import Cards from '../../inc/Cards';
+import CardsVentajas from '../../inc/CardsVentajas';
 
 import { useTranslation } from 'react-i18next';
 
@@ -19,7 +19,7 @@ export default function Ventajas() {
                             <div className="underline mx-auto"></div>
                         </div>
                         <div className='Bkground'>
-                            <Cards />
+                            <CardsVentajas />
                         </div>
                         <div className='row'></div>
                     </div>
