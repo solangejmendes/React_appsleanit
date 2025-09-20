@@ -37,28 +37,28 @@ export default function Navbar() {
                     {/* Menú centrado */}
                     <ul className="navbar-nav mb-2 mb-lg-0 d-flex flex-column flex-lg-row justify-content-center w-100 text-lg-center text-end">
                         <li className="nav-item">
-                            <NavLink to="/" className="nav-link navbar-text">{t("header.navHome")}</NavLink>
+                            <NavLink to="/#home" className="nav-link navbar-text">{t("header.navHome")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/quiensomos" className="nav-link navbar-text">{t("header.navAbout")}</NavLink>
+                            <NavLink to="/#quiensomos" className="nav-link navbar-text">{t("header.navAbout")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/servicios" className="nav-link navbar-text">{t("header.navServices")}</NavLink>
+                            <NavLink to="/#servicios" className="nav-link navbar-text">{t("header.navServices")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/metodologia" className="nav-link navbar-text">{t("header.navMeth")}</NavLink>
+                            <NavLink to="/#metodologia" className="nav-link navbar-text">{t("header.navMeth")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/productos" className="nav-link navbar-text">{t("header.navProd")}</NavLink>
+                            <NavLink to="/#productos" className="nav-link navbar-text">{t("header.navProd")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/articles" className="nav-link navbar-text">{t("header.navArt")}</NavLink>
+                            <NavLink to="/#articles" className="nav-link navbar-text">{t("header.navArt")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/partners" className="nav-link navbar-text">{t("header.navPart")}</NavLink>
+                            <NavLink to="/#partners" className="nav-link navbar-text">{t("header.navPart")}</NavLink>
                         </li>
                         <li className="nav-item">
-                            <NavLink to="/contacto" className="nav-link navbar-text">{t("header.navContact")}</NavLink>
+                            <NavLink to="/#contacto" className="nav-link navbar-text">{t("header.navContact")}</NavLink>
                         </li>
                     </ul>
 

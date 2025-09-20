@@ -1,3 +1,18 @@
+/* *********** Smooth scroll + optional scroll snap *************** */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: page-by-page snap feel */
+.onepager {
+  scroll-snap-type: y proximity; /* or 'mandatory' for stricter snapping */
+}
+.onepager .snap {
+  scroll-snap-align: start;
+}
+
+
+
 /* ***********Content styles**************** */
 
 * {

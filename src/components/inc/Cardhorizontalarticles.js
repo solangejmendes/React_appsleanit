@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
 
@@ -32,7 +31,7 @@ export default function Cardhorizontalarticles({date, title, imageSource, text, 
                             {
                                 text ? text : 'Texto pendiente'
                             }
-                            <Link to={url} className="btn btn-link" style={{ color: "white" }}>{t("cards.link2")}</Link>
+                            <a href={url} className="btn btn-link" target="_blank" rel="noreferrer" style={{ color: "white" }}>{t("cards.link2")}</a>
                         </p>
                     </div>
                 </div>

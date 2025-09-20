@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import HomeOnePager from './components/pages/HomeOnePager';
 import Navbar from './components/inc/Navbar';
 import Footer from './components/inc/Footer';
 import Inicio from './components/pages/Inicio';
@@ -19,6 +20,10 @@ function App() {
             <Navbar />
             <div className="flex-grow-1"> 
               <Routes>
+                  {/* Single-page experience on root */}
+                  <Route path="/" element={<HomeOnePager />} />
+
+                  {/* Keep direct pages available for SEO/deeplinks */}
                   <Route path="servicios" element={<Servicios />} />
                   <Route path="productos" element={<Productos />} />
                   <Route path="articles" element={<Articles />} />
